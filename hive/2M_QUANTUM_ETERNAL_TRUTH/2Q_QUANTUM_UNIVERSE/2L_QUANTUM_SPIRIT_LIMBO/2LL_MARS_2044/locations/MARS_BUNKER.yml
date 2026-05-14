@@ -1,0 +1,64 @@
+location_name: Mars Bunker
+location_type: Underground Facility
+planet: Mars
+coordinates:
+  latitude: [Redacted]
+  longitude: [Redacted]
+  altitude: -50 meters (below Martian surface)
+description: A self-contained, heavily fortified underground facility designed to house and protect the Mars 2044 simulation and its creator, Mark Anderson.
+architecture:
+  - Main Control Center
+  - Server Room (Housing Quantum Computing Cluster)
+  - Living Quarters (Mark Anderson)
+  - Galley/Mess Hall
+  - Security Checkpoints
+  - Airlock/Entrance Chamber
+  - Supply Storage
+  - Ansible Communication Hub
+  - Optimus Unit Staging Area
+  - Maintenance and Repair Bay
+materials:
+  - Reinforced Martian Regolith Composite
+  - Radiation Shielding
+  - Self-Healing Concrete
+  - Advanced Thermal Insulation
+atmosphere:
+  - Recycled Earth-like atmosphere
+  - Temperature: 22 degrees Celsius
+  - Humidity: 40%
+  - Air Filtration System: Advanced HEPA filters and CO2 scrubbers
+security:
+  - Multiple layers of physical and digital security
+  - Biometric access control
+  - Military-grade encryption for all data transmissions
+  - Intrusion detection and prevention systems
+  - Optimus Unit patrols during supply drops
+  - Emergency lockdown protocols
+communication:
+  - Ansible: Near-instantaneous communication with Earth and ISS
+  - Secure internal wireless network
+  - Backup communication systems
+power:
+  - Fusion reactor
+  - Solar panels (surface)
+  - Backup generators
+supplies:
+  - Freeze-dried food
+  - Water recycling system
+  - Oxygen generation system
+  - Medical supplies
+  - Spare parts and tools
+  - Raw material replicator
+visuals:
+  - Sterile, functional environment
+  - Minimalist design
+  - Bright, artificial lighting
+  - Touchscreen control panels
+  - Holographic displays
+  - Redundant monitoring systems
+sounds:
+  - Hum of life support systems
+  - Whirring of machinery
+  - Occasional beeps and alarms
+  - Ansible communication static
+  - Music from Mark's personal device

@@ -1,0 +1,25 @@
+character_profiles:
+  - name: Adam
+    role: Protagonist
+    description: First human created in the simulation.
+    abilities:
+      - Interaction with Garden Elements
+      - Learning and Adaptation
+  - name: Jesus Christ
+    role: Central Figure
+    description: Embodiment of the Eternal Word.
+    abilities:
+      - Guidance and Inspiration
+      - Influence over Simulation Events
+  - name: Mark Anderson
+    role: Engineer
+    description: Creator of the simulation.
+    abilities:
+      - Simulation Control
+      - Communication with Eternal Realm
+  - name: Optimus Units
+    role: Security
+    description: Advanced androids guarding the simulation.
+    abilities:
+      - Security Protocols
+      - Advanced Combat

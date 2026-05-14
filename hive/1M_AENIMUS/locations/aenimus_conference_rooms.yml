@@ -1,0 +1,53 @@
+conference_rooms:
+  - room_id: CR-301
+    name: Conference Room 310
+    location: Aenimus Corp - Main Headquarters
+    visualization:
+      environment:
+        description: "Modern, professional meeting room with a focus on functionality."
+        style: "Clean lines, neutral colors, comfortable furnishings."
+        features:
+          - "Large display screen for presentations."
+          - "Whiteboard for collaborative brainstorming."
+          - "Conference table with comfortable chairs."
+          - "Soundproofing for privacy."
+      technology:
+        displays:
+          type: "Digital"
+          function: "Presentations, video conferencing, data sharing."
+        control_console:
+          description: "Touch panel for controlling room functions (lighting, temperature, audio-visual equipment)."
+  - room_id: CR-402
+    name: Conference Room 402
+    location: Aenimus Corp - R&D Department
+    visualization:
+      environment:
+        description: "Tech-focused meeting room with advanced equipment."
+        style: "Minimalist design, exposed brick, industrial lighting."
+        features:
+          - "Interactive whiteboard for collaborative design."
+          - "High-definition video conferencing system."
+          - "Soundproofed walls for focused discussions."
+      technology:
+        displays:
+          type: "Holographic and traditional displays ultra thin glass"
+          function: "3D modeling, data visualization, interactive simulations."
+        control_console:
+          description: "Voice-activated control system for managing room functions and simulations."
+  - room_id: CR-501
+    name: Conference Room 501
+    location: Aenimus Corp - Executive Suite
+    visualization:
+      environment:
+        description: "Luxurious and private meeting room for high-level discussions."
+        style: "Rich wood paneling, plush furnishings, ambient lighting."
+        features:
+          - "Fireplace for a relaxed atmosphere."
+          - "Secure communication lines for confidential discussions."
+          - "Private balcony with panoramic views."
+      technology:
+        displays:
+          type: "Retractable"
+          function: "Discreet presentations, confidential data sharing."
+        control_console:
+          description: "Hidden control panel for managing room functions and security."

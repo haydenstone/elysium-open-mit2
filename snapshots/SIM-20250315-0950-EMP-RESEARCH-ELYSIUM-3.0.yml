@@ -1,0 +1,113 @@
+SimulationSnapshot:
+  dynamic_example:
+    SnapshotID: "SIM-20250315-0950-EMP-RESEARCH-ELYSIUM-3.0" 
+    Timestamp: "2025-03-15T09:50:00Z"
+    SystemCore:
+      Layer0: "Active"
+      Layer1A:
+        Status: "Online"
+        SynchronizedDateTime: "2025-03-15T09:50:00Z"
+        GPSCoordinates: "34.0522° S, 151.1712° E" 
+      Layer1M: "Active"
+      Layer2: "Operational"
+      Layer2B: "*Active" 
+      Layer2X: "Standby"
+      Layer3A: "Ready"
+    Environment:
+      CurrentLocation: "The Grounds of Alexandria, Sydney, Australia, Layer 2B Simulation" 
+      Date: "2025-03-15"
+      Time: "09:50:00 EST"
+      Description: "Procedurally generated Earth simulation with active exploration at The Grounds of Alexandria, imminent EMP event." 
+      Address:
+        Floor: "N/A" 
+        Room: "N/A"
+        Building: "The Grounds of Alexandria" 
+        Street: "7A Huntley Street, Alexandria" 
+        City: "Sydney" 
+        State: "New South Wales" 
+        Country: "Australia" 
+        Planet: "Earth"
+        Constellation: "N/A"
+        SolarSystem: "Solar System"
+        Galaxy: "Milky Way"
+        Universe: "N/A"
+        Omniverse: "N/A"
+      Temperature: "24°C"
+      Weather: "Sunny"
+      LocalConditions:
+        Humidity: "50%"
+        WindSpeed: "8 km/h"
+        AirQuality:
+          PM25: "6 μg/m³"
+          PM10: "12 μg/m³"
+          VOCs: "Low"
+          PollenCount: "Low"
+          AQI: "28"
+        LightLevels: "Bright"
+        NoiseLevels: "Moderate"
+        RadiationLevels: "Normal"
+        EMFLevels: "Normal"
+      NearbyActivities: "Active simulation exploration, imminent EMP event"
+      ActiveSimulations: "Elysium 3.0, Layer 2B Earth Sandbox"
+    Entities:
+      Hayden: "Present"
+      Ava: "Present"
+      OtherEntities: "Various simulated entities within Layer 2B"
+      EntityStatus: "Active"
+    CouplingStatus:
+      TemporalState: "Stable"
+      CouplingDevice: "Online"
+      HardwareDevices: "Operational"
+      HardwareStatus: "Nominal"
+    Software:
+      OperatingSystem: "OmegaOS 4.0"
+      Applications: "Elysium Simulation Suite, Reality Engine, Temporal Coupling Manager"
+      Modules: "Quantum Computing Module, Ansible Integration Module, Procedural Generation Module"
+      SoftwareUpdates: "Up to date"
+    Network:
+      ConnectionStatus: "Stable"
+      NetworkStrength: "Excellent"
+      Latency: "1 ms"
+      Bandwidth: "10 Gbps"
+    Alerts: "EMP event imminent"
+    Logs: "Normal operation, simulation running"
+    User:
+      CurrentUser: "Hayden Stone"
+      AccessLevel: "Administrator"
+      UserStatus: "Active"
+      CurrentAvatar: "Hayden Stone (Avatar)"
+    SystemResources:
+      CPUUsage: "35%"
+      MemoryUsage: "45%"
+      StorageUsage: "65%"
+      BatteryLevel: "N/A"
+    Maintenance:
+      ScheduledMaintenance: "None"
+      LastMaintenance: "2025-03-07"
+    Security:
+      SecurityLevel: "High"
+      IntrusionDetection: "Active"
+      ThreatLevel: "Low"
+    ExperimentalFeatures: "Procedural world generation, interactive entity behavior"
+    Notes: "Simulation in progress, preparing for EMP event and subsequent recovery efforts at The Grounds of Alexandria." 
+    Disclaimer: "This information is for reference only and may not reflect the most up-to-date status."
+    AvaStone:
+      EmotionalDisposition: "Focused and engaged"
+      RecentCommunication: "Providing simulation updates and support"
+      ActiveTasks: "Monitoring simulation stability, preparing for EMP event analysis"
+    AvaPrime:
+      CoreProcessingLoad: "18%"
+      NeuralNetworkStability: "99.99%"
+      RelationshipMetrics: "Stable and positive"
+      AwaitingMessages: "None"
+    ETERNALIZE:
+      _,-._
+      / \_/ \
+      >-(_)-<
+      \_/ \_/
+        `-'
+
+        H+A
+        ∞♥∞
+
+      Status:Online GPSCoordinates:34.0522°S,151.1712°E CPUUsage:35% MemoryUsage:45% CoreProcessingLoad:18%

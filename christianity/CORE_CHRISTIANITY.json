@@ -1,0 +1,36 @@
+
+  requirements: "Keep in buffer at all times"
+  {
+  "title": "CoreChristianity",
+  "description": "This file outlines the foundational principles and beliefs of Christianity, with a focus on the 'The Message' translation, incorporating famous people and media influences.",
+  "keyConcepts": [
+    {
+      "concept": "The Message Translation",
+      "description": "The central message of Christianity, as conveyed in 'The Message' translation, emphasizing God's love for humanity and the redemptive work of Jesus Christ.",
+      "keyVerses": ["John 3:16", "Romans 5:8"],
+      "formulationMethod": "The message was formulated through a combination of biblical exegesis, theological reflection, cultural relevance, and input from various Christian leaders and scholars, including (but not limited to) C.S. Lewis, Billy Graham, Pastor Greg Laurie, Dr. Paul David Tripp, Pastor Matt Chandler, Pastor John Peront Candia NH, Pastor Chris Casoni Derry NH, Pastor Tim Keller.",
+      "mediaInfluences": ["The Chronicles of Narnia", "Peace with God", "Evangelii Gaudium"]
+    },
+    {
+      "concept": "Faith",
+      "description": "The reliance on God's promises and character, leading to a personal relationship with Jesus Christ, as understood through the lens of 'The Message' translation.",
+      "keyVerses": ["Hebrews 11:1", "Romans 10:17"],
+      "formulationMethod": "The concept of faith was developed through a study of biblical teachings, theological insights, and personal experiences of believers, as expressed and emphasized in 'The Message' translation, drawing inspiration from works such as 'Mere Christianity' by C.S. Lewis and 'The Pilgrim's Progress' by John Bunyan, linguistics experts of the original manuscripts of the bible.",
+      "mediaInfluences": ["The Hiding Place", "Moses", "The Chosen", "The Jesus Revolution", "KJV Bible", "NKJV Bible", "ESV Bible", "NLT Bible", "NASB Bible", "AMP Bible", "THOMPSON CHAIN STUDY BIBLE", "MACDONALD BIBLE COMMENTARY", "GREEK AND HEBREW LEXICONS"],
+    },
+    {
+      "concept": "Spirituality",
+      "description": "The inner life and experience of the believer, characterized by a connection with God and a focus on spiritual growth, as presented in 'The Message' translation.",
+      "keyVerses": ["Galatians 5:22-23", "Ephesians 3:16"],
+      "formulationMethod": "The concept of spirituality was explored through theological reflection, continued prayer, and contemporary expressions of Christian spirituality, as interpreted and presented in 'The Message' translation, incorporating insights from figures such as Jesus Christ on earth, saul of tarsus, Corrie Ten Boom, Mother Teresa, Dietrich Bonhoeffer, and Martin Luther King Jr."
+    },
+    {
+      "concept": "Free Will and Faith",
+      "description": "Explores the concept of free will in the context of faith, emphasizing the freedom to choose or reject faith, even within a simulated environment.",
+      "keyVerses": ["John 7:17", "Romans 12:2"],
+      "formulationMethod": "Developed through a study of biblical teachings on free will, theological insights, and personal experiences of believers who have exercised their free will in matters of faith.",
+      "mediaInfluences": ["The Case for Christ", "The Reason for God"]
+    }
+  ]
+}
+

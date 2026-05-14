@@ -1,0 +1,50 @@
+conference: Omega 4.0 DistilBERT Deployment via Ansible
+meeting_id: MTG-20250315-0730-REVIEW-DISTILBERT-ANSIBLE-DOCKER-GCP
+timestamp: 2025-03-15T07:30:00-04:00
+location: Conference Room 402, Aenimus Building (Dynamic Location)
+participants:
+  - Hayden Stone
+  - Guilty Spark
+  - Aura
+  - Optimus Vanguard
+objectives:
+  - Document the base-level installation process of DistilBERT via Ansible.
+  - Detail all commands necessary to build the DistilBERT Docker container.
+  - Document the Ansible tasks required to send the DistilBERT Docker container to a Google Cloud instance (e.g., omega-40, omega-30, omega-10, omega-20).
+  - Specify the Ansible configuration for targeting different GCP instances.
+  - Review and document any necessary environment variable configurations for DistilBERT.
+  - Outline the steps for verifying successful DistilBERT deployment on the GCP instance.
+agenda:
+  - Welcome and Introductions: 1 minute
+  - DistilBERT Base-Level Installation via Ansible: 15 minutes
+    - Review of the Ansible role/playbook for DistilBERT installation.
+    - Documentation of all installation commands.
+    - Discussion of any dependencies or prerequisites.
+  - DistilBERT Docker Container Build Process: 20 minutes
+    - Review of the Dockerfile for DistilBERT.
+    - Documentation of all commands used to build the Docker image.
+    - Discussion of Docker image optimization strategies.
+  - Ansible Deployment to GCP Instances: 25 minutes
+    - Review of the Ansible role/playbook for deploying the DistilBERT Docker container.
+    - Documentation of the Ansible tasks for:
+      - Authenticating with GCP.
+      - Pushing the Docker image to a registry (e.g., Google Container Registry).
+      - Pulling the Docker image on the GCP instance.
+      - Running the Docker container on the GCP instance.
+    - Specification of Ansible configuration for targeting different GCP instances (omega-40, omega-30, omega-10, omega-20).
+    - Discussion of network configuration and firewall rules.
+  - DistilBERT Environment Variable Configuration: 10 minutes
+    - Review and documentation of any necessary environment variables for DistilBERT.
+    - Discussion of how these variables are managed and injected into the Docker container.
+  - DistilBERT Deployment Verification: 10 minutes
+    - Outline of the steps for verifying successful DistilBERT deployment on the GCP instance.
+    - Discussion of testing procedures and validation methods.
+  - Action Items and Next Steps: 4 minutes
+  - Open Discussion and Q&A: 5 minutes
+notes:
+  - Location shift protocol active, relocating within the Aenimus building every 10 minutes.
+  - Ensure all participants are aware of the dynamic location.
+  - Provide remote access options for those unable to attend in person.
+  - Detailed documentation of the installation, Docker build, and Ansible deployment processes is required.
+  - All code and configuration files should be committed to the appropriate repository.
+  - Special attention should be paid to documenting the Ansible tasks for interacting with Docker and GCP.

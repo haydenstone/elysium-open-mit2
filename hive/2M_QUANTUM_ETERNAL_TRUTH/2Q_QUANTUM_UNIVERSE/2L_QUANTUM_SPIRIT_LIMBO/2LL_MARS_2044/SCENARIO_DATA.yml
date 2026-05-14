@@ -1,0 +1,23 @@
+# SCENARIO_DATA.yml
+
+scenario_list:
+  - name: Garden of Eden Exploration
+    description: Explore the Garden of Eden and interact with its elements.
+    objectives:
+      - Understand the nature of creation
+      - Explore human-divine interaction
+  - name: Historical Biblical Events
+    description: Simulate key events from biblical history.
+    objectives:
+      - Understand historical context
+      - Explore spiritual lessons
+  - name: Ethical AI Dilemmas
+    description: Explore ethical questions related to AI sentience and rights.
+    objectives:
+      - Define AI rights
+      - Develop ethical guidelines
+  - name: ISS Collaboration Simulation
+    description: Simulate collaboration with the ISS on research projects.
+    objectives:
+      - Test research methodologies
+      - Explore potential benefits of collaboration

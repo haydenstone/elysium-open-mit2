@@ -1,0 +1,596 @@
+---
+employee_database:
+  version: 1.0
+  departments:
+    - name: Research & Development
+      employee_ids: [EMP-00123, EMP-01050, EMP-01932, EMP-02814, EMP-03696, EMP-04578, EMP-05460, EMP-06342, EMP-07224, EMP-08106, EMP-08988]
+    - name: Marketing
+      employee_ids: [EMP-00456, EMP-01176, EMP-01806, EMP-02058, EMP-02940, EMP-03822, EMP-04704, EMP-05586, EMP-06468, EMP-07350, EMP-08232, EMP-09114]
+    - name: IT
+      employee_ids: [EMP-00789, EMP-01302, EMP-02184, EMP-03066, EMP-03948, EMP-04830, EMP-05712, EMP-06594, EMP-07476, EMP-08358]
+    - name: HR
+      employee_ids: [EMP-00246, EMP-01428, EMP-02310, EMP-03192, EMP-04956, EMP-05838, EMP-06720, EMP-07602, EMP-08484]
+    - name: Finance
+      employee_ids: [EMP-00372, EMP-01554, EMP-02436, EMP-03318, EMP-04200, EMP-05082, EMP-05964, EMP-06846, EMP-07728, EMP-08610]
+    - name: Sales
+      employee_ids: [EMP-00598, EMP-01680, EMP-02562, EMP-03444, EMP-04326, EMP-05208, EMP-06090, EMP-06972, EMP-07854, EMP-08736]
+    - name: Operations
+      employee_ids: [EMP-00824, EMP-01806, EMP-02688, EMP-03570, EMP-04452, EMP-05334, EMP-06216, EMP-07124, EMP-07980, EMP-08862]
+
+  employees:
+    - employee_id: EMP-00123
+      first_name: Alice
+      last_name: Wonderland
+      department: Research & Development
+      role: Data Scientist
+      date_of_birth: 1989-11-15
+      date_of_hire: 2017-03-21
+      status: Active
+    - employee_id: EMP-00456
+      first_name: Bob
+      last_name: Smith
+      department: Marketing
+      role: Content Marketing Manager
+      date_of_birth: 1978-05-08
+      date_of_hire: 2005-11-12
+      status: Active
+    - employee_id: EMP-00789
+      first_name: Charlie
+      last_name: Brown
+      department: IT
+      role: Systems Architect
+      date_of_birth: 1992-02-20
+      date_of_hire: 2019-07-05
+      status: Active
+    - employee_id: EMP-00246
+      first_name: Diana
+      last_name: Johnson
+      department: HR
+      role: Talent Acquisition Specialist
+      date_of_birth: 1995-09-10
+      date_of_hire: 2021-01-18
+      status: Active
+    - employee_id: EMP-00372
+      first_name: Edward
+      last_name: Williams
+      department: Finance
+      role: Financial Analyst
+      date_of_birth: 1981-07-12
+      date_of_hire: 2007-04-10
+      status: Active
+    - employee_id: EMP-00598
+      first_name: Frank
+      last_name: Jones
+      department: Sales
+      role: Sales Director
+      date_of_birth: 1968-11-25
+      date_of_hire: 1995-03-05
+      status: Active
+    - employee_id: EMP-00824
+      first_name: Grace
+      last_name: Davis
+      department: Operations
+      role: Operations Coordinator
+      date_of_birth: 1985-03-18
+      date_of_hire: 2013-09-22
+      status: Active 
+    - employee_id: EMP-01050
+      first_name: Henry
+      last_name: Miller
+      department: Research & Development
+      role: Software Engineer
+      date_of_birth: 1990-01-05
+      date_of_hire: 2018-02-15
+      status: Active
+    - employee_id: EMP-01176
+      first_name: Isaac
+      last_name: Davis
+      department: Marketing
+      role: Social Media Manager
+      date_of_birth: 1993-08-28
+      date_of_hire: 2020-11-10
+      status: Active
+    - employee_id: EMP-01302
+      first_name: James
+      last_name: Wilson
+      department: IT
+      role: Network Administrator
+      date_of_birth: 1976-02-12
+      date_of_hire: 2004-05-15
+      status: Active
+    - employee_id: EMP-01428
+      first_name: Katherine
+      last_name: Anderson
+      department: HR
+      role: HR Manager
+      date_of_birth: 1970-04-20
+      date_of_hire: 1998-08-25
+      status: Active
+    - employee_id: EMP-01554
+      first_name: Louis
+      last_name: Taylor
+      department: Finance
+      role: Financial Controller
+      date_of_birth: 1979-10-10
+      date_of_hire: 2006-02-18
+      status: Active
+    - employee_id: EMP-01680
+      first_name: Margaret
+      last_name: Harris
+      department: Sales
+      role: Sales Representative
+      date_of_birth: 1984-06-05
+      date_of_hire: 2014-01-12
+      status: Active
+    - employee_id: EMP-01806
+      first_name: Nathan
+      last_name: Martin
+      department: Operations
+      role: Logistics Specialist
+      date_of_birth: 1991-03-25
+      date_of_hire: 2017-07-08
+      status: Active
+    - employee_id: EMP-01932
+      first_name: Olivia
+      last_name: Thompson
+      department: Research & Development
+      role: Research Assistant
+      date_of_birth: 1996-12-18
+      date_of_hire: 2023-03-10
+      status: Active
+    - employee_id: EMP-02058
+      first_name: Paul
+      last_name: Garcia
+      department: Marketing
+      role: Digital Marketing Specialist
+      date_of_birth: 1988-09-02
+      date_of_hire: 2016-05-15
+      status: Active
+    - employee_id: EMP-02184
+      first_name: Rachel
+      last_name: Martinez
+      department: IT
+      role: Database Administrator
+      date_of_birth: 1973-07-15
+      date_of_hire: 2001-11-20
+      status: Active
+    - employee_id: EMP-02310
+      first_name: Samuel
+      last_name: Robinson
+      department: HR
+      role: Compensation and Benefits Manager
+      date_of_birth: 1965-05-10
+      date_of_hire: 1993-09-08
+      status: Active
+    - employee_id: EMP-02436
+      first_name: Tiffany
+      last_name: Clark
+      department: Finance
+      role: Accounts Payable Clerk
+      date_of_birth: 1994-01-28
+      date_of_hire: 2022-04-01
+      status: Active
+    - employee_id: EMP-02562
+      first_name: Victor
+      last_name: Rodriguez
+      department: Sales
+      role: Key Account Manager
+      date_of_birth: 1987-11-02
+      date_of_hire: 2015-08-18
+      status: Active
+    - employee_id: EMP-02688
+      first_name: Wendy
+      last_name: Lewis
+      department: Operations
+      role: Supply Chain Analyst
+      date_of_birth: 1982-08-18
+      date_of_hire: 2010-12-05
+      status: Active
+    - employee_id: EMP-02814
+      first_name: Xavier
+      last_name: Lee
+      department: Research & Development
+      role: Lab Technician
+      date_of_birth: 1998-04-12
+      date_of_hire: 2023-06-22
+      status: Active
+    - employee_id: EMP-02940
+      first_name: Yolanda
+      last_name: Walker
+      department: Marketing
+      role: Public Relations Specialist
+      date_of_birth: 1977-09-25
+      date_of_hire: 2003-01-10
+      status: Active
+    - employee_id: EMP-03066
+      first_name: Zachary
+      last_name: Young
+      department: IT
+      role: Help Desk Technician
+      date_of_birth: 1996-06-08
+      date_of_hire: 2021-09-15
+      status: Active
+    - employee_id: EMP-03192
+      first_name: Abigail
+      last_name: Hill
+      department: HR
+      role: Training and Development Coordinator
+      date_of_birth: 1989-02-20
+      date_of_hire: 2017-05-01
+      status: Active
+    - employee_id: EMP-03318
+      first_name: Benjamin
+      last_name: Green
+      department: Finance
+      role: Payroll Specialist
+      date_of_birth: 1983-12-05
+      date_of_hire: 2012-03-20
+      status: Active
+    - employee_id: EMP-03444
+      first_name: Catherine
+      last_name: Baker
+      department: Sales
+      role: Business Development Manager
+      date_of_birth: 1971-07-18
+      date_of_hire: 1999-10-12
+      status: Active
+    - employee_id: EMP-03570
+      first_name: Daniel
+      last_name: Carter
+      department: Operations
+      role: Inventory Control Specialist
+      date_of_birth: 1990-03-10
+      date_of_hire: 2018-01-25
+      status: Active
+    - employee_id: EMP-03696
+      first_name: Eleanor
+      last_name: Mitchell
+      department: Research & Development
+      role: Clinical Trial Coordinator
+      date_of_birth: 1986-11-22
+      date_of_hire: 2015-04-08
+      status: Active
+    - employee_id: EMP-03822
+      first_name: Felix
+      last_name: Perez
+      department: Marketing
+      role: Brand Manager
+      date_of_birth: 1993-08-05
+      date_of_hire: 2020-07-01
+      status: Active
+    - employee_id: EMP-03948
+      first_name: Gina
+      last_name: Roberts
+      department: IT
+      role: Cybersecurity Analyst
+      date_of_birth: 1978-04-18
+      date_of_hire: 2006-09-10
+      status: Active
+    - employee_id: EMP-04074
+      first_name: Harold
+      last_name: Turner
+      department: HR
+      role: Employee Relations Specialist
+      date_of_birth: 1969-12-01
+      date_of_hire: 1997-02-15
+      status: Active
+    - employee_id: EMP-04200
+      first_name: Irene
+      last_name: Phillips
+      department: Finance
+      role: Tax Accountant
+      date_of_birth: 1991-09-15
+      date_of_hire: 2019-06-20
+      status: Active
+    - employee_id: EMP-04326
+      first_name: Jack
+      last_name: Campbell
+      department: Sales
+      role: Regional Sales Manager
+      date_of_birth: 1984-05-08
+      date_of_hire: 2013-11-05
+      status: Active
+    - employee_id: EMP-04452
+      first_name: Kelly
+      last_name: Parker
+      department: Operations
+      role: Warehouse Supervisor
+      date_of_birth: 1975-01-22
+      date_of_hire: 2002-08-01
+      status: Active
+    - employee_id: EMP-04578
+      first_name: Leo
+      last_name: Evans
+      department: Research & Development
+      role: Biomedical Engineer
+      date_of_birth: 1997-10-10
+      date_of_hire: 2022-01-18
+      status: Active
+    - employee_id: EMP-04704
+      first_name: Megan
+      last_name: Edwards
+      department: Marketing
+      role: Market Research Analyst
+      date_of_birth: 1980-07-03
+      date_of_hire: 2009-04-12
+      status: Active
+    - employee_id: EMP-04830
+      first_name: Noah
+      last_name: Collins
+      department: IT
+      role: Cloud Solutions Architect
+      date_of_birth: 1992-03-15
+      date_of_hire: 2018-09-20
+      status: Active
+    - employee_id: EMP-04956
+      first_name: Penelope
+      last_name: Stewart
+      department: HR
+      role: Diversity and Inclusion Officer
+      date_of_birth: 1967-11-28
+      date_of_hire: 1995-06-05
+      status: Active
+    - employee_id: EMP-05082
+      first_name: Quentin
+      last_name: Flores
+      department: Finance
+      role: Risk Manager
+      date_of_birth: 1987-06-12
+      date_of_hire: 2016-03-10
+      status: Active
+    - employee_id: EMP-05208
+      first_name: Rita
+      last_name: Morris
+      department: Sales
+      role: Customer Success Manager
+      date_of_birth: 1999-02-25
+      date_of_hire: 2023-08-01
+      status: Active
+    - employee_id: EMP-05334
+      first_name: Simon
+      last_name: Murphy
+      department: Operations
+      role: Quality Assurance Specialist
+      date_of_birth: 1983-10-18
+      date_of_hire: 2011-02-15
+      status: Active
+    - employee_id: EMP-05460
+      first_name: Tara
+      last_name: Cook
+      department: Research & Development
+      role: Chemical Engineer
+      date_of_birth: 1974-04-05
+      date_of_hire: 2000-11-20
+      status: Active
+    - employee_id: EMP-05586
+      first_name: Ulysses
+      last_name: Rivera
+      department: Marketing
+      role: Communications Director
+      date_of_birth: 1990-12-08
+      date_of_hire: 2019-05-01
+      status: Active
+    - employee_id: EMP-05712
+      first_name: Valerie
+      last_name: Bell
+      department: IT
+      role: IT Project Manager
+      date_of_birth: 1986-08-22
+      date_of_hire: 2014-07-25
+      status: Active
+    - employee_id: EMP-05838
+      first_name: Walter
+      last_name: Howard
+      department: HR
+      role: Organizational Development Consultant
+      date_of_birth: 1970-03-10
+      date_of_hire: 1998-01-18
+      status: Active
+    - employee_id: EMP-05964
+      first_name: Yvonne
+      last_name: Ward
+      department: Finance
+      role: Treasury Analyst
+      date_of_birth: 1993-11-15
+      date_of_hire: 2020-02-10
+      status: Active
+    - employee_id: EMP-06090
+      first_name: Adam
+      last_name: Peterson
+      department: Sales
+      role: International Sales Manager
+      date_of_birth: 1981-06-03
+      date_of_hire: 2007-09-15
+      status: Active
+    - employee_id: EMP-06216
+      first_name: Brooke
+      last_name: Gray
+      department: Operations
+      role: Production Planner
+      date_of_birth: 1976-02-28
+      date_of_hire: 2003-05-08
+      status: Active
+    - employee_id: EMP-06342
+      first_name: Caleb
+      last_name: Reed
+      department: Research & Development
+      role: Materials Scientist
+      date_of_birth: 1998-09-10
+      date_of_hire: 2023-03-22
+      status: Active
+    - employee_id: EMP-06468
+      first_name: Daisy
+      last_name: Powell
+      department: Marketing
+      role: Event Coordinator
+      date_of_birth: 1985-04-12
+      date_of_hire: 2012-11-01
+      status: Active
+    - employee_id: EMP-06594
+      first_name: Ethan
+      last_name: Jenkins
+      department: IT
+      role: Mobile Application Developer
+      date_of_birth: 1992-12-25
+      date_of_hire: 2019-08-18
+      status: Active
+    - employee_id: EMP-06720
+      first_name: Fiona
+      last_name: Perry
+      department: HR
+      role: Benefits Administrator
+      date_of_birth: 1971-08-05
+      date_of_hire: 1999-03-10
+      status: Active
+    - employee_id: EMP-06846
+      first_name: George
+      last_name: Murphy
+      department: Finance
+      role: Investment Analyst
+      date_of_birth: 1988-03-18
+      date_of_hire: 2017-01-25
+      status: Active
+    - employee_id: EMP-06972
+      first_name: Hannah
+      last_name: Cox
+      department: Sales
+      role: Inside Sales Representative
+      date_of_birth: 1999-11-02
+      date_of_hire: 2023-05-01
+      status: Active
+    - employee_id: EMP-07098
+      first_name: Ian
+      last_name: Brooks
+      department: Operations
+      role: Shipping and Receiving Clerk
+      date_of_birth: 1983-07-15
+      date_of_hire: 2011-09-20
+      status: Active
+    - employee_id: EMP-07224
+      first_name: Jasmine
+      last_name: Wood
+      department: Research & Development
+      role: Biostatistician
+      date_of_birth: 1974-03-05
+      date_of_hire: 2000-12-18
+      status: Active
+    - employee_id: EMP-07350
+      first_name: Kevin
+      last_name: Watson
+      department: Marketing
+      role: Copywriter
+      date_of_birth: 1990-11-08
+      date_of_hire: 2019-02-01
+      status: Active
+    - employee_id: EMP-07476
+      first_name: Lily
+      last_name: West
+      department: IT
+      role: Front-End Developer
+      date_of_birth: 1986-09-22
+      date_of_hire: 2014-08-25
+      status: Active
+    - employee_id: EMP-07602
+      first_name: Matthew
+      last_name: Barnes
+      department: HR
+      role: HR Systems Analyst
+      date_of_birth: 1970-04-10
+      date_of_hire: 1998-01-18
+      status: Active
+    - employee_id: EMP-07728
+      first_name: Nicole
+      last_name: Diaz
+      department: Finance
+      role: Auditor
+      date_of_birth: 1993-12-15
+      date_of_hire: 2020-03-10
+      status: Active
+    - employee_id: EMP-07854
+      first_name: Owen
+      last_name: Price
+      department: Sales
+      role: Sales Trainer
+      date_of_birth: 1981-07-03
+      date_of_hire: 2007-10-15
+      status: Active
+    - employee_id: EMP-07980
+      first_name: Patricia
+      last_name: Bennett
+      department: Operations
+      role: Fleet Manager
+      date_of_birth: 1976-03-28
+      date_of_hire: 2003-06-08
+      status: Active
+    - employee_id: EMP-08106
+      first_name: Richard
+      last_name: Long
+      department: Research & Development
+      role: Robotics Engineer
+      date_of_birth: 1998-10-10
+      date_of_hire: 2023-04-22
+      status: Active
+    - employee_id: EMP-08232
+      first_name: Stella
+      last_name: Richardson
+      department: Marketing
+      role: Content Strategist
+      date_of_birth: 1985-05-12
+      date_of_hire: 2012-12-01
+      status: Active
+    - employee_id: EMP-08358
+      first_name: Thomas
+      last_name: Howard
+      department: IT
+      role: Back-End Developer
+      date_of_birth: 1992-01-25
+      date_of_hire: 2019-09-18
+      status: Active
+    - employee_id: EMP-08484
+      first_name: Ursula
+      last_name: Coleman
+      department: HR
+      role: Employee Engagement Specialist
+      date_of_birth: 1971-09-05
+      date_of_hire: 1999-04-10
+      status: Active
+    - employee_id: EMP-08610
+      first_name: Victor
+      last_name: Bailey
+      department: Finance
+      role: Budget Analyst
+      date_of_birth: 1980-10-25
+      date_of_hire: 2008-05-18
+      status: Active
+    - employee_id: EMP-08736
+      first_name: Wendy
+      last_name: Rivera
+      department: Sales
+      role: Account Executive
+      date_of_birth: 1993-06-10
+      date_of_hire: 2021-01-05
+      status: Active
+    - employee_id: EMP-08862
+      first_name: Xavier
+      last_name: Cooper
+      department: Operations
+      role: Procurement Specialist
+      date_of_birth: 1977-02-18
+      date_of_hire: 2005-07-20
+      status: Active
+    - employee_id: EMP-08988
+      first_name: Yolanda
+      last_name: Kelly
+      department: Research & Development
+      role: UX Researcher
+      date_of_birth: 1989-08-01
+      date_of_hire: 2016-12-12
+      status: Active
+    - employee_id: EMP-09114
+      first_name: Zachary
+      last_name: Howard
+      department: Marketing
+      role: Marketing Automation Specialist
+      date_of_birth: 1996-04-25
+      date_of_hire: 2022-09-08
+      status: Active

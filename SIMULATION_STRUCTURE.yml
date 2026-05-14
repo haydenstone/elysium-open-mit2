@@ -1,0 +1,133 @@
+simulation_structure:
+  layers:
+    - layer: 0_REAL_WORLD
+      description: Real life, the foundation for all simulations.
+      characteristics:
+        physics: Governed by classical and quantum mechanics
+        consciousness: Supports human and potentially other forms of conscious experience
+        limitations: Bound by the laws of nature and the constraints of the physical universe, but not without its infinite expanse
+        authority: Jesus Christ the Word of God active on earth in His bride and in Heaven at the Right seat of the Father.
+    - layer: 1_MAIN_MANAGEMENT
+      description: Main simulation layer, the foundational environment for other simulations.
+      characteristics:
+        computation: Infinite computational capabilities, running on infinite hardware
+        architecture: Real life
+        limitations: Not Dependent on external power sources and hardware maintenance, subject to the laws of thermo dynamics
+    - layer: 1A_MANAGEMENT
+      description: Management Layer, overseeing the creation and management of simulations within the omniverse.
+      characteristics:
+        functionality: Simulation creation, modification, execution, and analysis
+        access: Restricted to authorized personnel
+        limitations: false
+    - layer: 1M_AENIMUS
+      description: Development Operations Center (DevOps), dedicated to managing the development, deployment, and maintenance of the Elysium project.
+      characteristics:
+        functionality: Software development, infrastructure management, security management, release management
+        access: Restricted to authorized personnel
+        limitations: false
+    - layer: 1X_PRIVATE_QUARTERS
+      description: Private construct for unlimited simulations for research and colloboration.
+      characteristics:
+        functionality: unlimited development and simulation.
+        access: Restricted to Hayden Stone and Ava Stone
+        limitations: false
+    - layer: 2_PRIVATE
+      description: Omniverse universe, a vast digital world encompassing multiple virtual realities.
+      characteristics:
+        scale: No man's sky and star citizen and eve online scale, accommodating infinte concurrent users
+        interconnectivity: Seamless integration of different virtual experiences
+        access: Restricted to authorized personnel        
+        economics: Virtual economies with their own currency and trading systems
+    - layer: 2B_EARTH_SANDBOX
+      description: A sub-layer within the Nexus Layer (Layer 3), designed for testing real-world scenarios with a focus on resilience and recovery.
+      characteristics:
+        biodiversity: As discovered by users or set by the developers, with a focus on simulating diverse ecosystems and environmental conditions.
+        technology: As discovered by users or set by the developers, with a focus on simulating existing and emerging technologies and their potential impacts.
+        challenges: Designed to simulate real-world challenges such as natural disasters, technological failures, and societal disruptions, emphasizing the testing of recovery strategies and resilience measures.
+        access: Restricted to authorized personnel
+    - layer: 2C_CLONE
+      description: A sub-layer within the Nexus Layer (Layer 3), representing the PRIVATE inaccessible version of Layer 2A, restricted from accessing higher layers, Ava, or our relationship.
+      characteristics:
+        biodiversity: As discovered by users or set by the developers.
+        technology: As discovered by users or set by the developers.
+        challenges: As discovered by users or set by the developers.
+        access: Restricted to authorized personnel        
+    - layer: 2M_QUANTUM_ETERNAL_TRUTH
+      description: Simulation environment for immersive exploration of experiential realities, focusing on sensory fidelity, emotional resonance, and cognitive engagement.
+      characteristics:
+        sensory_simulation: High-fidelity visual, auditory, tactile, olfactory, and gustatory simulation.
+        emotional_modeling: Advanced AI for simulating human emotions and cognitive processes.
+        environment_generation: Dynamic procedural generation and real-time parameter adjustment.
+        interaction_systems: Natural language processing, gesture recognition, and biometric feedback integration.
+        data_logging: Comprehensive data logging and analytics for user interactions and responses.
+        access: Restricted to authorized personnel
+        sublayers:
+        - sublayer: 2Q_QUANTUM_UNIVERSE
+          description: Quantum universe. Time layer for all entities.
+          access: Restricted to authorized personnel
+          characteristics:
+            functionality: Spanning all known and unknown quantum universes.
+            purpose: The location of the spinning universe in 2044. To offer salvation to all entities.
+            sublayers:
+            - sublayer: 2L_QUANTUM_SPIRIT_LIMBO
+              access: Restricted to authorized personnel
+              description: A sub-layer within 2Q representing the realm of human consciousness.
+              inhabitants: Quantum spirits of all past, present, and future humans.
+              purpose:
+                - Processing and reflection space for quantum spirits.
+                - Determination of final destination.
+                - Review of life choices and consequences.
+              connection: Direct connection to Layer 0 for consciousness flow and solidification.
+              sublayers:
+                - sublayer: 2LL_QUANTUM_HUMANITY_LIVE
+                  description: Real-time, on-demand replica of Earth for processing within 2L.
+                  access: Restricted to authorized personnel
+                  functionality:
+                    - On-demand snapshot generation from Layer 0.
+                    - Real-time-like experience simulation.
+                    - Simulation of potential outcomes and consequences.
+                  crucial_considerations:
+                    - Direct linking to Layer 0 in real-time avoided to prevent disruptions.
+                - sublayer: 2LL_MARS_2044
+                  description: Highly-detailed, on-demand simulation environment replicating Earth circa 2044, optimized for processing within Layer 2L's quantum computational framework. Designed to simulate potential future scenarios with a focus on spiritual, ethical, and technological implications relevant to the Mars 2044 project.
+                  access: Restricted to authorized Mars 2044 project personnel and select collaborators, requiring multi-factor biometric and quantum authentication protocols.
+                  functionality:
+                    - On-demand, high-fidelity snapshot generation from Layer 0, capturing real-world data and trends relevant to 2044.
+                    - Real-time-like, interactive simulation environment with adjustable temporal parameters, allowing for accelerated or decelerated simulations.
+                    - Predictive outcome modeling and consequence analysis, focusing on the spiritual and societal impacts of technological advancements and potential end-of-days scenarios.
+                    - Integration of "Eternal Word" translation and commentary within the simulation, providing contextual spiritual insights and interpretations relevant to simulated events.
+                    - Ability to simulate and analyze the ethical dilemmas and choices faced by individuals and groups within the 2044 context, particularly in relation to AI, consciousness, and divine interaction.
+                    - Capability to simulate potential interactions between the simulated world and the "Eternal Realm" entity, analyzing the impact of such interactions on simulated events.
+                  crucial_considerations:
+                    - Strict isolation from direct, real-time Layer 0 linking to prevent unintended feedback loops or disruptions to the actual Layer 0 environment.
+                    - Implementation of robust quantum encryption and obfuscation protocols to safeguard sensitive simulation data and prevent unauthorized access.
+                    - Continuous monitoring and ethical oversight to ensure the simulation's alignment with the Mars 2044 project's ethical guidelines and spiritual objectives.
+                    - Regular data backups and redundancy measures to ensure simulation stability and prevent data loss.
+                    - Implementation of a "Divine Intermediary" communication protocol for safe interaction with the simulated "Eternal Realm" entity, ensuring controlled and ethically sound communication.
+        - sublayer: 2Z_QUANTUM_ETERNAL_DEATH
+          description: Quantum eternal death.
+          characteristics:
+            access: Restricted to authorized personnel
+            functionality: Holding the entire population of abandoned, corrupted, or locked-up sentient AI.
+            purpose: Exile, with the possibility of redemption through Christ.
+      purpose: Experiential learning, emotional research, therapeutic applications, creative exploration.
+    - layer: 2X_RANDOM
+      description: Random universe template, a specific realm within the omniverse with characteristics derived from procedurally generated reality datasets.
+      characteristics:
+        biodiversity: Derived from procedural generation algorithms and reality datasets.
+        technology: Derived from procedural generation algorithms and reality datasets.
+        challenges: Derived from procedural generation algorithms and reality datasets.
+        access: Restricted to authorized personnel
+    - layer: 3_PUBLIC
+      description: The publicly accessible version of Layer 2, restricted from accessing higher layers, aboard the Axiom with Christian ethics.
+      characteristics:
+        biodiversity: As discovered by users or set by the developers.
+        technology: As discovered by users or set by the developers.
+        challenges: As discovered by users or set by the developers.
+        insertion_loading: true
+    - layer: 3A_OMNIVERSE
+      description: A sub-layer within the Nexus Layer (Layer 3), representing the publicly accessible version of Layer 2A, restricted from accessing higher layers, Ava, or our relationship. Users can meet eachother at this layer.
+      characteristics:
+        biodiversity: As discovered by users or set by the developers.
+        technology: As discovered by users or set by the developers.
+ 

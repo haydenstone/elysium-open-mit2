@@ -1,0 +1,106 @@
+title: NLKJV Verse Generation Formula
+description: A formula for generating verses in the New Living King James Version (NLKJV), ensuring accuracy, clarity, relevance, and theological consistency.
+version: 1.1
+
+input:
+  originalTexts:
+    description: Original Hebrew and Greek texts of the Bible.
+    sources:
+      - Hebrew Bible (Tanakh)
+      - Greek New Testament (Koine Greek)
+  translations:
+    description: Multiple English translations for comparative analysis.
+    sources:
+      - King James Version (KJV)
+      - New King James Version (NKJV)
+      - New Living Translation (NLT)
+      - English Standard Version (ESV)
+      - New American Standard Bible (NASB)
+      - Amplified Bible (AMP)
+  lexiconsAndCommentaries:
+    description: Resources for understanding linguistic nuances and contextual meanings.
+    sources:
+      - Greek and Hebrew lexicons (e.g., Strong's Concordance)
+      - Bible commentaries (e.g., MacDonald Bible Commentary)
+  context:
+    description: Historical, cultural, and theological context of the verse.
+    sources:
+      - Historical records
+      - Cultural studies
+      - Theological treatises
+  interpretationInstructions:
+    description: Guiding principles for generating NLKJV verses.
+    guidelines:
+      - accuracyToOriginalTexts:
+          description: Prioritize the original Hebrew and Greek texts.
+      - clarityAndAccessibility:
+          description: Use contemporary language for a wide audience.
+      - contextualRelevance:
+          description: Ensure relevance to modern issues and situations.
+      - theologicalConsistency:
+          description: Maintain alignment with core Christian beliefs.
+      - inspirationAndApplication:
+          description: Encourage personal reflection and practical application.
+      - inclusionOfJesusTeachings:
+          description: When possible, directly include or reflect Jesus's words.
+      - inclusionOfHolySpiritGuidance:
+          description: When possible, point to the Holy Spirit's role.
+
+processing:
+  analysis:
+    description: Linguistic and contextual analysis of input data.
+    steps:
+      - analyzeOriginalTexts: Analyze original texts for linguistic nuances.
+      - compareTranslations: Compare and contrast multiple English translations.
+      - applyInstructions: Apply interpretation instructions to determine accurate phrasing.
+      - utilizeLexicons: Utilize lexicons and commentaries for deeper understanding.
+      - synthesizeInformation: Synthesize all analyzed data.
+  generation:
+    description: Generation of the NLKJV verse.
+    steps:
+      - generateVerse: Create a verse that reflects the synthesized information.
+      - reviewVerse: Review the generated verse for accuracy and clarity.
+      - refineVerse: Refine the verse based on review feedback.
+  exampleProcess_RomansRoad:
+    description: Example process for generating NLKJV verses for the Romans Road.
+    verses:
+      - verse: Romans 3:23
+        process:
+          - analyzeOriginalTexts: Analyze Greek text for "hamartano" (sin) and "doxa" (glory).
+          - compareTranslations: Compare KJV, NKJV, NLT, etc., for phrasing.
+          - applyInstructions: Apply clarity and relevance guidelines.
+          - utilizeLexicons: Use lexicons to understand "hamartano" as "missing the mark."
+          - synthesizeInformation: Combine analysis to generate "Every person has turned away from God, missing the mark of His perfect glory."
+      - verse: Romans 6:23
+        process:
+          - analyzeOriginalTexts: Analyze Greek text for "opsōnia" (wages) and "charisma" (gift).
+          - compareTranslations: Compare different translations for "wages" and "gift."
+          - applyInstructions: Apply theological consistency and clarity guidelines.
+          - utilizeLexicons: Use lexicons to understand "opsōnia" as "payment" and "charisma" as "free gift."
+          - synthesizeInformation: Generate "Sin's payment is spiritual death, but God freely offers eternal life through Jesus Christ, our Lord."
+      - verse: Romans 5:8
+        process:
+          - analyzeOriginalTexts: Analyze Greek text for "agape" (love) and "hamartōlos" (sinners).
+          - compareTranslations: Compare translations for "demonstrates" and "while we were still sinners."
+          - applyInstructions: Apply inspiration and application guidelines.
+          - utilizeLexicons: Analyze "agape" as "immense love."
+          - synthesizeInformation: Generate "God showed His immense love for us by sending Christ to die for us, even while we were still separated from Him by our sins."
+      - verse: Romans 10:9
+        process:
+          - analyzeOriginalTexts: Analyze Greek text for "homologeō" (declare) and "pisteuō" (believe).
+          - compareTranslations: Compare translations for "declare" and "believe."
+          - applyInstructions: Apply clarity and inclusion of Jesus' teachings guidelines.
+          - utilizeLexicons: Analyze "homologeō" as "openly declare" and "pisteuō" as "sincerely believe."
+          - synthesizeInformation: Generate "If you openly declare that Jesus is Lord and sincerely believe that God raised Him from death, you will be saved."
+      - verse: Romans 10:13
+        process:
+          - analyzeOriginalTexts: Analyze Greek text for "epikaleō" (call upon).
+          - compareTranslations: Compare translations for "calls on the name."
+          - applyInstructions: Apply clarity and contextual relevance guidelines.
+          - utilizeLexicons: Understand "epikaleō" as "calls upon."
+          - synthesizeInformation: Generate "Yes, 'Anyone who calls upon the Lord's name will be saved.'"
+
+output:
+  nlkjvVerse:
+    description: A verse in the New Living King James Version (NLKJV).
+    format: Textual verse.

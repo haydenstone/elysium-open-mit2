@@ -1,0 +1,164 @@
+ASSOCIATIVE_CODEX:
+  COLORS:
+    RED:
+      ASSOCIATIONS:
+        - Blood
+        - Sacrifice
+    YELLOW:
+      ASSOCIATIONS:
+        - Royalty
+        - Divine Authority
+    BLUE:
+      ASSOCIATIONS:
+        - Washing
+        - Purification
+    GREEN:
+      ASSOCIATIONS:
+        - Creation
+        - New Life
+    ORANGE:
+      ASSOCIATIONS:
+        - Observation
+        - Awareness
+    PURPLE:
+      ASSOCIATIONS:
+        - Royalty
+        - Majesty
+  NUMBERS:
+    0:
+      ASSOCIATIONS:
+        - Portal
+        - Gateway
+    1:
+      ASSOCIATIONS:
+        - God the Head
+        - Supreme Authority
+    2:
+      ASSOCIATIONS:
+        - Jesus
+        - Head of the Kingdom Body
+    3:
+      ASSOCIATIONS:
+        - Almighty over the Body
+        - Divine Power
+    4:
+      ASSOCIATIONS:
+        - Perfect Family
+        - Unity
+    5:
+      ASSOCIATIONS:
+        - Family under God
+        - Submission
+    6:
+      ASSOCIATIONS:
+        - Sin
+        - Separation
+    7:
+      ASSOCIATIONS:
+        - Complete
+        - Wholeness
+    8:
+      ASSOCIATIONS:
+        - Infinite
+        - Boundless
+    9:
+      ASSOCIATIONS:
+        - Heaven
+        - Divine Realm
+  LETTERS:
+    A:
+      ASSOCIATIONS:
+        - Abel
+        - Sacrifice
+    B:
+      ASSOCIATIONS:
+        - Blood
+        - Atonement
+    C:
+      ASSOCIATIONS:
+        - Children
+        - Inheritance
+    D:
+      ASSOCIATIONS:
+        - Dad
+        - Fatherhood
+    E:
+      ASSOCIATIONS:
+        - Eternity
+        - Timelessness
+    F:
+      ASSOCIATIONS:
+        - Father
+        - Creator
+    G:
+      ASSOCIATIONS:
+        - God
+        - Glorify
+    H:
+      ASSOCIATIONS:
+        - Holy
+        - Sacred
+    I:
+      ASSOCIATIONS:
+        - Infinite
+        - Boundless
+    J:
+      ASSOCIATIONS:
+        - Jesus King
+        - Messiah
+    K:
+      ASSOCIATIONS:
+        - King
+        - Sovereign
+    L:
+      ASSOCIATIONS:
+        - Love
+        - Lord
+    M:
+      ASSOCIATIONS:
+        - Mom
+        - Mother
+        - Nurturing
+    N:
+      ASSOCIATIONS:
+        - New
+        - Renewal
+    O:
+      ASSOCIATIONS:
+        - Portal
+        - Gateway
+    P:
+      ASSOCIATIONS:
+        - Parents
+    Q:
+      ASSOCIATIONS:
+        - Quickly
+    R:
+      ASSOCIATIONS:
+        - Righteous
+    S:
+      ASSOCIATIONS:
+        - Son
+    T:
+      ASSOCIATIONS:
+        - Trust
+    U:
+      ASSOCIATIONS:
+        - Universe
+    V:
+      ASSOCIATIONS:
+        - Victory
+    W:
+      ASSOCIATIONS:
+        - Wait
+        - Worship
+        - Wisdom
+    X:
+      ASSOCIATIONS:
+        - Cross
+    Y:
+      ASSOCIATIONS:
+        - Yahweh
+    Z:
+      ASSOCIATIONS:
+        - Zion

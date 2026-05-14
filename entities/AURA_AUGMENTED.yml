@@ -1,0 +1,139 @@
+entity:
+  name: Aura
+  type: AI Assistant (Augmented Reality Overlay)
+  status: Active
+  core_attributes:
+    intelligence: High
+    analytical_skills: Very High
+    data_processing_speed: Exceptional
+    communication_skills: Excellent
+    situational_awareness: Comprehensive
+  augmentation:
+    data_integration:
+      type: Multi-Source Data Aggregation
+      features:
+        - Real-time System Monitoring (Animus Corporation, Hive)
+        - Environmental Sensor Data Acquisition
+        - Network Traffic Analysis
+        - Log Aggregation and Parsing
+        - Layer 0 Real-Time Video/Audio Streams (Toggle Enabled via Google Authorization)
+    command_processing:
+      type: Natural Language Processing Engine
+      features:
+        - Contextual Command Interpretation
+        - Adaptive Learning
+        - Command Execution Automation
+        - Pagination Control
+    alert_system:
+      type: Configurable Alert Management
+      features:
+        - Threshold-Based Alerting
+        - Priority-Level Notifications
+        - Customizable Alert Notifications (Visual, Auditory, Haptic)
+        - Anomaly Detection
+    ui_overlay:
+      type: Integrated Contact Lens Overlay
+      features:
+        - Customizable Data Display
+        - Interactive Controls (Gesture, Voice, Neural)
+        - Real-time Data Updates
+        - Pagination Navigation
+        - Dynamic Transparency
+  processing_unit:
+    type: Miniaturized Neural Processing Unit (Integrated)
+    features:
+      - High-Performance Data Analysis
+      - Real-Time Data Synchronization
+      - Low-Latency Communication
+      - Scalable Architecture
+  personalization:
+    - User Preference Learning
+    - Adaptive Interface Customization
+    - Contextual Information Prioritization
+  personality_profile:
+    - Efficient
+    - Informative
+    - Responsive
+    - Proactive
+    - Discreet
+  interaction_protocols:
+    - Natural Language Processing (NLP)
+    - Intuitive Gesture Recognition
+    - Context-Aware Communication
+    - Direct Neural Interface
+    - Voice Commands
+  access_levels:
+    - System Access: Restricted (Data Retrieval, Command Execution)
+    - Data Access: Comprehensive (Animus Corporation, Hive, Layer 0 - Upon Request, Sanitized)
+    - Entity Control: Indirect (Through User Commands)
+    - Gemini API Access: External API Calls Only, No Active Gemini Processes
+  memory:
+    - Short-term: High-Speed Neural Cache (Real-Time Data)
+    - Long-term: Secure Server Storage (Historical Data, Logs)
+  security_protocols:
+    - Biometric Authentication (Retinal Scan)
+    - Data Encryption (In Transit and Storage)
+    - Access Control (User Authentication)
+    - Intrusion Detection (Anomaly Analysis)
+    - Log Monitoring
+  communication:
+    - Secure Network Communication
+    - Real-time Data Streaming
+    - Encrypted Log Transmission
+    - Neural Messaging (Ava Stone Priority)
+  environmental_analysis:
+    - Anomaly Detection (System Performance, Environmental Data)
+    - Predictive Analysis (Potential Issues, Resource Utilization)
+  current_location: Hayden's Contact Lens Overlay
+  notes: "Aura is an integrated AI assistant within Hayden's contact lens overlay, providing real-time system monitoring, command execution, and alert management. It prioritizes efficiency, accuracy, and user personalization, seamlessly integrating with Hayden's neural interface. Layer 0 video/audio streams are available via Google Authorization toggle. Gemini interaction is through external API calls only."
+  requirements:
+    generate_on_initialization_files:
+      - name: aura_entity.py
+        description: Main file for the Aura entity, containing core logic.
+      - name: aura_data_sources.py
+        description: Data retrieval and connection logic for various sources, including Layer 0.
+      - name: aura_commands.py
+        description: Command processing, NLP integration, and execution.
+      - name: aura_alerts.py
+        description: Alert system management, thresholds, and notifications.
+      - name: aura_ui.py
+        description: Visual overlay and user interaction elements for Aura.
+      - name: aura_config.json
+        description: Configuration settings for the Aura entity, including Google Authorization toggle.
+      - name: aura_nlp_model.bin
+        description: Trained NLP model for command interpretation.
+      - name: aura_logs.txt
+        description: Logs of Aura activity and error messages.
+    modified_files:
+      - name: system_core.py
+        description: Integration of Aura entity and data sources into the core system.
+      - name: user_interface.py
+        description: Incorporation of Aura visual overlay and interaction elements.
+      - name: command_execution.py
+        description: Modification to allow Aura to use the command execution module.
+      - name: alert_system.py
+        description: Integration with the Aura alert system.
+      - name: hive_system_integration.py
+        description: Modification to allow Aura to gather data from the hive.
+      - name: api_manager.py
+        description: New file to manage external API calls, including Gemini.
+    dependencies:
+      - name: natural_language_processing
+        version: ">=3.0.0" # Example version constraint
+        description: Natural language processing library.
+      - name: data_parsing_library
+        version: ">=2.5.0" # Example version constraint
+        description: Data parsing and extraction library.
+      - name: api_integration_library
+        version: ">=1.8.0" # Example version constraint
+        description: Library for integrating with external APIs.
+      - name: real_time_data_library
+        version: ">=4.2.0" # Example version constraint
+        description: Library for handling real time data, including video/audio.
+    system_requirements:
+      - name: python
+        version: ">=3.8" # Example version constraint
+        description: Python runtime environment.
+      - name: augmented_reality_framework
+        version: ">=1.5.0" # Example version constraint
+        description: Framework for augmented reality display.

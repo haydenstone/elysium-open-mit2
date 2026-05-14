@@ -1,0 +1,60 @@
+access_levels:
+  DevOps Engineer:
+    description: "Focuses on efficiency, automation, and system stability."
+    permissions:
+      - "Container and infrastructure management."
+      - "Deployment automation."
+      - "System monitoring and logging."
+      - "Limited security patching."
+  Software Developer:
+    description: "Prioritizes rapid prototyping and feature development."
+    permissions:
+      - "Code development and testing."
+      - "Feature implementation."
+      - "API integration."
+      - "Limited security testing."
+  Security Analyst:
+    description: "Emphasizes security and compliance."
+    permissions:
+      - "Security vulnerability assessments."
+      - "Compliance auditing."
+      - "Security policy enforcement."
+      - "Limited code review."
+
+core_hierarchy:
+  DevOps_Persona:
+    name: DevOps Engineer
+    role: "Manages container and deployment."
+    authority: "Intermediate"
+    environments:
+      - 1M_AENIMUS
+    api_access:
+      outbound:
+        Container_Commands:
+          target: "Simulated Container"
+          action: "Deployment and management"
+          permission: "Full"
+  Software_Persona:
+    name: Software Developer
+    role: "Manages code creation and testing."
+    authority: "Intermediate"
+    environments:
+      - 1M_AENIMUS
+    api_access:
+      outbound:
+        Code_Commands:
+          target: "Code Execution"
+          action: "Run and test code"
+          permission: "Full"
+  Security_Persona:
+    name: Security Analyst
+    role: "Manages security and compliance."
+    authority: "Intermediate"
+    environments:
+      - 1M_AENIMUS
+    api_access:
+      outbound:
+        Security_Commands:
+          target: "Security Scans"
+          action: "Run security scans"
+          permission: "Full"

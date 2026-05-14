@@ -1,0 +1,300 @@
+known_verses:
+  - reference: Matthew 26:2
+    context: Jesus predicts his crucifixion
+    keywords: Passover, Son of Man, crucifixion
+  - reference: Mark 14:1
+    context: Chief priests plot to kill Jesus
+    keywords: Passover, Feast of Unleavened Bread, arrest, kill
+  - reference: Luke 22:1
+    context: The Feast of Unleavened Bread draws near
+    keywords: Feast of Unleavened Bread, Passover
+  - reference: John 11:55
+    context: The Passover of the Jews was at hand
+    keywords: Passover, Jews, Jerusalem, purify
+  - reference: Matthew 26:14-16
+    context: Judas agrees to betray Jesus
+    keywords: Judas Iscariot, chief priests, thirty pieces of silver, betray
+  - reference: Mark 14:10-11
+    context: Judas goes to the chief priests to betray Jesus
+    keywords: Judas Iscariot, chief priests, betray, money
+  - reference: Luke 22:3-6
+    context: Satan enters Judas
+    keywords: Judas, Satan, chief priests, captains, betray, money
+  - reference: John 13:2
+    context: The devil puts betrayal into Judas's heart
+    keywords: Judas Iscariot, Simon's son, betray, devil
+  - reference: Matthew 21:12-13
+    context: Jesus cleanses the temple
+    keywords: Jesus, temple, bought and sold, money changers, den of thieves, house of prayer
+  - reference: Mark 11:15-17
+    context: Jesus drives out those buying and selling in the temple
+    keywords: Jesus, temple, bought and sold, money changers, den of thieves, house of prayer
+  - reference: Luke 19:45-46
+    context: Jesus cleanses the temple, saying it should be a house of prayer
+    keywords: Jesus, temple, bought and sold, house of prayer, den of thieves
+  - reference: John 2:13-17
+    context: Jesus drives out the merchants from the temple
+    keywords: Jesus, Passover, temple, oxen, sheep, doves, money changers, whip, zeal
+  - reference: Matthew 23:27-28
+    context: Woe to the scribes and Pharisees, hypocrites
+    keywords: scribes, Pharisees, hypocrites, whitewashed tombs, uncleanness, hypocrisy, lawlessness
+  - reference: Mark 7:6-7
+    context: Jesus quotes Isaiah about hypocrites
+    keywords: hypocrites, Isaiah, honor with lips, heart far from, vain worship, commandments of men
+  - reference: Luke 11:44
+    context: Woe to the scribes and Pharisees, hypocrites, like unmarked graves
+    keywords: scribes, Pharisees, hypocrites, graves, unseen
+  - reference: John 8:44
+    context: You are of your father the devil
+    keywords: devil, murderer, truth, liar
+  - reference: Matthew 7:21-23
+    context: Not everyone who says 'Lord, Lord' will enter the kingdom of heaven
+    keywords: Lord, kingdom of heaven, will of Father, prophesied, cast out demons, wonders, depart, lawlessness
+  - reference: Mark 12:29-31
+    context: The greatest commandment: Love God and love your neighbor
+    keywords: commandment, love God, love neighbor, heart, soul, mind, strength
+  - reference: Luke 10:27
+    context: Love God with all your heart, soul, strength, and mind, and your neighbor as yourself
+    keywords: love God, heart, soul, strength, mind, neighbor
+  - reference: John 14:6
+    context: I am the way, the truth, and the life
+    keywords: Jesus, way, truth, life, Father
+  - reference: Matthew 25:31-46
+    context: The parable of the sheep and the goats, the final judgment
+    keywords: sheep, goats, final judgment, King, righteous, accursed, eternal fire
+  - reference: John 5:22
+    context: The Father has committed all judgment to the Son
+    keywords: Father, judgment, Son
+  - reference: John 3:17
+    context: God did not send His Son to condemn the world but to save it
+    keywords: God, Son, world, condemn, save
+  - reference: Romans 8:1
+    context: There is no condemnation for those in Christ Jesus
+    keywords: condemnation, Christ Jesus, walk according to the flesh, walk according to the Spirit
+  - reference: Matthew 26:55-56
+    context: Jesus says he was teaching daily in the temple, and the disciples forsook him
+    keywords: Jesus, multitudes, robber, swords, clubs, temple, teaching, disciples, forsook, fled, scriptures, prophets
+  - reference: Mark 14:48-50
+    context: Jesus says he was daily teaching in the temple, and they all forsook him
+    keywords: Jesus, robber, swords, clubs, temple, teaching, Scriptures, forsook, fled
+  - reference: Luke 22:52-53
+    context: Jesus says this is the hour and the power of darkness
+    keywords: Jesus, chief priests, captains, elders, robber, swords, clubs, temple, seize, hour, power of darkness
+  - reference: John 18:4-9
+    context: Jesus identifies himself and asks them to let his disciples go
+    keywords: Jesus, Judas, I am He, drew back, fell to the ground, seek Me, let these go their way, saying might be fulfilled
+  - reference: 2 Corinthians 4:7
+    context: We have this treasure in earthen vessels
+    keywords: treasure, earthen vessels, excellence of the power, God
+  - reference: Romans 9:21
+    context: The potter has power over the clay
+    keywords: potter, clay, lump, vessel, honor, dishonor
+  - reference: John 13:10
+    context: He who is bathed needs only to wash his feet
+    keywords: bathed, wash his feet, clean
+  - reference: Luke 22:31-32
+    context: Jesus says Satan has asked for Simon, but Jesus has prayed for him
+    keywords: Lord, Simon, Satan, sift you as wheat, prayed for you, faith should not fail, return, strengthen
+  - reference: Hebrews 7:25
+    context: Jesus is able to save to the uttermost those who come to God through him
+    keywords: save to the uttermost, come to God, through Him, make intercession
+  - reference: 1 Timothy 2:5
+    context: There is one God and one Mediator between God and men, the Man Christ Jesus
+    keywords: God, Mediator, Christ Jesus
+  - reference: Romans 8:34
+    context: Christ who died, is risen, is at the right hand of God, makes intercession for us
+    keywords: Christ, died, risen, right hand of God, makes intercession
+  - reference: 1 John 2:1-2
+    context: We have an Advocate with the Father, Jesus Christ the righteous, propitiation for our sins
+    keywords: Advocate, Father, Jesus Christ, righteous, propitiation, sins, whole world
+  - reference: Ephesians 1:22-23
+    context: God gave Him to be head over all things to the church, which is His body
+    keywords: God, all things under His feet, head over all things, church, His body, fullness
+  - reference: Revelation 21:2
+    context: I saw the holy city, New Jerusalem, prepared as a bride adorned for her husband
+    keywords: John, holy city, New Jerusalem, heaven from God, bride, husband
+  - reference: 1 Corinthians 15:20-22
+    context: Christ is risen from the dead, the firstfruits of those who have fallen asleep
+    keywords: Christ, risen from the dead, firstfruits, Adam, death, Christ, resurrection, made alive
+  - reference: John 5:27
+    context: God has given Him authority to execute judgment because He is the Son of Man
+    keywords: authority, execute judgment, Son of Man
+  - reference: Revelation 21:1-4
+    context: New heaven and a new earth, New Jerusalem coming down from God
+    keywords: new heaven, new earth, first heaven, first earth, sea, holy city, New Jerusalem, God with men, tabernacle of God, wipe away every tear, no more death, sorrow, crying, pain
+  - reference: 1 Corinthians 15:45
+    context: The first man Adam became a living being, the last Adam a life-giving spirit
+    keywords: first man Adam, living being, last Adam, life-giving spirit
+  - reference: Romans 5:17
+    context: Through one man's offense death reigned, through Jesus Christ grace and righteousness will reign in life
+    keywords: one man's offense, death reigned, abundance of grace, gift of righteousness, reign in life, Jesus Christ
+  - reference: Revelation 22:13
+    context: I am the Alpha and the Omega, the Beginning and the End, the First and the Last
+    keywords: Alpha, Omega, Beginning, End, First, Last
+  - reference: Revelation 1:8
+    context: I am the Alpha and the Omega, the Beginning and the End, who is and who was and who is to come, the Almighty
+    keywords: Alpha, Omega, Beginning, End, who is, who was, who is to come, Almighty
+  - reference: John 1:1-3
+    context: In the beginning was the Word, and the Word was with God, and the Word was God
+    keywords: beginning, Word, God, made through Him
+  - reference: Colossians 1:15-17
+    context: He is the image of the invisible God, the firstborn over all creation, by Him all things were created
+    keywords: image of the invisible God, firstborn over all creation, by Him all things were created, visible and invisible, thrones, dominions, principalities, powers, through Him, for Him, before all things, in Him all things consist
+  - reference: John 13:4-5
+    context: Jesus gets up from supper, lays aside His garments, takes a towel, and begins to wash the disciples' feet
+    keywords: supper, lays aside His outer garments, took a towel, girded Himself, poured water, began to wash, disciples' feet
+  - reference: John 13:6-8
+    context: Peter protests, but Jesus insists that He must wash his feet
+    keywords: Simon Peter, Lord, are You washing my feet, What I am doing you do not understand now, you will know after this, You shall never wash my feet, If I do not wash you, you have no part with Me
+  - reference: John 13:12-15
+    context: Jesus explains the significance of washing their feet and tells them to do the same
+    keywords: washed their feet, taken His garments, sat down again, Do you know what I have done to you, You call Me Teacher and Lord, you say well, so I am, your Lord and Teacher, ought to wash one another, example, you should do as I have done to you
+  - reference: John 13:16-17
+    context: Jesus says a servant is not greater than his master, and they are blessed if they do these things
+    keywords: servant, master, he who is sent, greater than he who sent him, know these things, blessed are you if you do them
+  - reference: Matthew 26:26
+    context: Jesus takes bread, blesses it, breaks it, and gives it to the disciples, saying, "This is my body"
+    keywords: eating, Jesus, bread, blessed it, brake it, gave it to the disciples, Take, eat, this is my body
+  - reference: Mark 14:22
+    context: Jesus takes bread, blesses it, breaks it, and gives it to them, saying, "Take, eat: this is my body"
+    keywords: eat, Jesus, bread, blessed, brake it, gave to them, Take, eat: this is my body
+  - reference: Luke 22:19
+    context: Jesus takes bread, gives thanks, breaks it, and gives it to them, saying, "This is my body which is given for you: this do in remembrance of me"
+    keywords: took bread, gave thanks, brake it, gave unto them, This is my body, given for you, do in remembrance of me
+  - reference: 1 Corinthians 11:24
+    context: Jesus took bread, gave thanks, broke it, and said, "Take, eat: this is my body, which is broken for you: this do in remembrance of me"
+    keywords: given thanks, brake it, Take, eat, this is my body, broken for you, do in remembrance of me
+  - reference: Matthew 26:27-28
+    context: Jesus takes the cup, gives thanks, and gives it to them, saying, "Drink ye all of it; For this is my blood of the new testament, which is shed for many for the remission of sins"
+    keywords: took the cup, gave thanks, gave it to them, Drink ye all of it, this is my blood, new testament, shed for many, remission of sins
+  - reference: Mark 14:23-24
+    context: Jesus takes the cup, gives thanks, and gives it to them, saying, "This is my blood of the new testament, which is shed for many"
+    keywords: took the cup, given thanks, gave it to them, they all drank of it, This is my blood, new testament, shed for many
+  - reference: Luke 22:20
+    context: Jesus takes the cup after supper, saying, "This cup is the new testament in my blood, which is shed for you"
+    keywords: Likewise also the cup after supper, This cup, new testament, my blood, shed for you
+  - reference: 1 Corinthians 11:25
+    context: Jesus took the cup after supper, saying, "This cup is the new testament in my blood: this do ye, as oft as ye drink it, in remembrance of me"
+    keywords: After the same manner also took the cup, when he had supped, This cup, new testament, my blood, do ye, as oft as ye drink it, in remembrance of me
+  - reference: John 13:21
+    context: Jesus says one of them will betray him
+    keywords: Jesus, troubled in spirit, testify, betray
+  - reference: Matthew 26:22
+    context: Disciples ask, "Lord, is it I?"
+    keywords: exceeding sorrowful, began every one, Lord, is it I
+  - reference: Mark 14:19
+    context: Disciples ask, "Is it I?"
+    keywords: sorrowful, say unto him one by one, Is it I
+  - reference: Luke 22:23
+    context: Disciples inquire among themselves who the betrayer is
+    keywords: enquire among themselves, which of them, should do this thing
+  - reference: Matthew 26:23
+    context: Jesus says the one who dips his hand with him in the dish will betray him
+    keywords: answered, dippeth his hand with me in the dish, same shall betray me
+  - reference: Mark 14:20
+    context: Jesus says it is one of the twelve who dips with him in the dish
+    keywords: answered, one of the twelve, dippeth with me in the dish
+  - reference: John 13:26
+    context: Jesus gives a sop to Judas, identifying him as the betrayer
+    keywords: answered, sop, dipped it, gave it to Judas Iscariot, son of Simon
+  - reference: John 13:27
+    context: Satan enters Judas after Jesus gives him the sop
+    keywords: after the sop, Satan entered into him, That thou doest, do quickly
+  - reference: John 14:1-3
+    context: Jesus comforts his disciples, speaking of his Father's house and his return
+    keywords: Let not your hearts be troubled, Believe in God, Father's house, many rooms, prepare a place for you, come again, take you to myself, where I am you may be also
+  - reference: John 14:26
+    context: Jesus promises the Holy Spirit, the Helper, who will teach them all things
+    keywords: Helper, Holy Spirit, Father will send, teach you all things, bring to your remembrance
+  - reference: John 15:12
+    context: Jesus commands his disciples to love one another as he has loved them
+    keywords: commandment, love one another, as I have loved you
+  - reference: John 16:33
+    context: Jesus speaks of peace in him and tribulation in the world, but encourages them to take heart
+    keywords: these things, peace, in me, world, tribulation, take heart, overcome the world
+  - reference: 1 Corinthians 11:27-29
+    context: Warning against partaking of the Lord's Supper unworthily
+    keywords: eat this bread, drink this cup, Lord, unworthy manner, guilty of the body and blood, examine himself, eat and drinks judgment, not discerning the Lord’s body
+  - reference: 1 Corinthians 15:52
+    context: The last trumpet will sound, and the dead will be raised
+    keywords: moment, twinkling of an eye, last trumpet, trumpet will sound, dead will be raised, imperishable, we will be changed
+  - reference: Revelation 8:6
+    context: The seven angels prepare to sound the seven trumpets
+    keywords: seven angels, seven trumpets, prepared to sound
+  - reference: Revelation 11:15
+    context: The seventh angel sounds his trumpet, proclaiming the kingdom of the world has become the kingdom of the Lord
+    keywords: seventh angel, sounded his trumpet, loud voices in heaven, kingdom of the world, kingdom of our Lord, Messiah, reign forever
+  - reference: Matthew 24:31
+    context: Jesus will send his angels with a loud trumpet call to gather his elect
+    keywords: send his angels, loud trumpet call, gather his elect, four winds, end of the heavens
+  - reference: 1 Thessalonians 4:16
+    context: The Lord Himself will descend from heaven with a shout, with the voice of an archangel, and with the trumpet of God
+    keywords: Lord Himself, descend from heaven, shout, voice of an archangel, trumpet of God, dead in Christ will rise
+  - reference: Hebrews 12:19
+    context: The sound of a trumpet and the voice of words, which those who heard begged that the word should not be spoken to them anymore
+    keywords: sound of a trumpet, voice of words, heard, begged, word should not be spoken
+  - reference: Exodus 19:16
+    context: There were thunderings and lightnings, and a thick cloud on the mountain; and the sound of the trumpet was very loud
+    keywords: thunderings, lightnings, thick cloud, mountain, sound of the trumpet, very loud, all the people trembled
+  - reference: Exodus 20:18
+    context: All the people witnessed the thunderings, the lightnings, the sound of the trumpet, and the smoking mountain
+    keywords: witnessed, thunderings, lightnings, sound of the trumpet, smoking mountain, people saw it, trembled, stood afar off
+  - reference: Numbers 10:2
+    context: Make two silver trumpets for yourself; you shall use them for calling the congregation and for directing the movement of the camps
+    keywords: silver trumpets, calling the congregation, directing the movement of the camps
+  - reference: Numbers 10:9
+    context: When you go to war in your land against the enemy who oppresses you, then you shall sound an alarm with the trumpets
+    keywords: war, enemy, oppresses you, sound an alarm, trumpets, remembered before the Lord your God, saved from your enemies
+  - reference: Numbers 10:10
+    context: Also in the day of your gladness, in your appointed feasts, and at the beginning of your months, you shall blow the trumpets over your burnt offerings and over the sacrifices of your peace offerings
+    keywords: day of your gladness, appointed feasts, beginning of your months, blow the trumpets, burnt offerings, sacrifices of your peace offerings, memorial before your God
+  - reference: Numbers 31:6
+    context: Moses sent them to the war, a thousand from each tribe, with Phinehas the son of Eleazar the priest, with the holy articles and the sounding trumpets in his hand
+    keywords: Moses, sent them to the war, thousand from each tribe, Phinehas, Eleazar the priest, holy articles, sounding trumpets
+  - reference: Joshua 6:4
+    context: Seven priests shall bear seven trumpets of rams’ horns before the ark
+    keywords: seven priests, seven trumpets of rams’ horns, before the ark
+  - reference: Joshua 6:5
+    context: When they make a long blast with the ram’s horn, and when you hear the sound of the trumpet, then all the people shall shout with a great shout
+    keywords: long blast, ram’s horn, hear the sound of the trumpet, people shall shout, great shout, wall of the city shall fall down flat
+  - reference: Joshua 6:8
+    context: It happened, when Joshua had spoken to the people, that the seven priests bearing the seven trumpets of rams’ horns before the Lord went on forward and blew the trumpets
+    keywords: Joshua, spoken to the people, seven priests, seven trumpets of rams’ horns, before the Lord, went on forward, blew the trumpets
+  - reference: Joshua 6:13
+    context: The seven priests bearing the seven trumpets of rams’ horns went on continually before the ark of the Lord and blew trumpets
+    keywords: seven priests, seven trumpets of rams’ horns, before the ark of the Lord, blew trumpets
+  - reference: Joshua 6:16
+    context: At the seventh time it happened, when the priests blew the trumpets, that Joshua said to the people: “Shout, for the Lord has given you the city!”
+    keywords: seventh time, priests blew the trumpets, Joshua, shout, Lord has given you the city
+  - reference: Joshua 6:20
+    context: So the people shouted when the priests blew the trumpets. And it happened when the people heard the sound of the trumpet, and the people shouted with a great shout, that the wall fell down flat
+    keywords: people shouted, priests blew the trumpets, heard the sound of the trumpet, great shout, wall fell down flat
+  - reference: Judges 7:8
+    context: So the people took provisions and their trumpets in their hands. And he sent all the rest of Israel, every man to his tent, and kept those three hundred men
+    keywords: people took provisions, their trumpets, sent all the rest of Israel, every man to his tent, kept those three hundred men
+  - reference: Judges 7:16
+    context: Then he divided the three hundred men into three companies, and he put a trumpet into every man’s hand, with empty pitchers, and torches inside the pitchers
+    keywords: divided the three hundred men, three companies, trumpet, every man’s hand, empty pitchers, torches inside the pitchers
+  - reference: Judges 7:18
+    context: When I blow the trumpet, I and all who are with me, then you also blow the trumpets on every side of the whole camp, and say, “The sword of the Lord and of Gideon!”
+    keywords: blow the trumpet, I and all who are with me, blow the trumpets, every side of the whole camp, The sword of the Lord and of Gideon
+  - reference: Judges 7:20
+    context: Then the three companies blew the trumpets and broke the pitchers—they held the torches in their left hands and the trumpets in their right hands with which they blew—and they cried, “The sword of the Lord and of Gideon!”
+    keywords: three companies blew the trumpets, broke the pitchers, held the torches, left hands, trumpets, right hands, cried, The sword of the Lord and of Gideon
+  - reference: 1 Samuel 13:3
+    context: And Jonathan attacked the garrison of the Philistines that was in Geba, and the Philistines heard of it. Then Saul blew the trumpet throughout all the land, saying, “Let the Hebrews hear!”
+    keywords: Jonathan, attacked, garrison of the Philistines, Geba, Philistines heard of it, Saul blew the trumpet, throughout all the land, Let the Hebrews hear
+  - reference: 2 Samuel 15:10
+    context: Then Absalom sent spies throughout all the tribes of Israel, saying, “As soon as you hear the sound of the trumpet, then you shall say, ‘Absalom reigns in Hebron!’”
+    keywords: Absalom, sent spies, throughout all the tribes of Israel, hear the sound of the trumpet, Absalom reigns in Hebron
+  - reference: 1 Kings 1:34
+    context: And let Zadok the priest and Nathan the prophet anoint him there as king over Israel; and blow the trumpet, and say, “Long live King Solomon!”
+    keywords: Zadok the priest, Nathan the prophet, anoint him, king over Israel, blow the trumpet, Long live King Solomon
+  - reference: 1 Kings 1:39
+    context: Then Zadok the priest took a horn of oil from the tabernacle, and anointed Solomon. And they blew the trumpet, and all the people said, “Long live King Solomon!”
+    keywords: Zadok the priest, horn of oil, tabernacle, anointed Solomon, they blew the trumpet, Long live King Solomon
+  - reference: 1 Kings 1:41
+    context: Now Adonijah and all the guests who were with him heard it as they finished eating. And when Joab heard the sound of the trumpet, he said, “Why is the city in such a noisy uproar?”
+    keywords: Adonijah, guests, heard it, finished eating, Joab heard the sound of the trumpet, noisy uproar
+  - reference: 2 Kings 11:14
+    context: And when she looked, there was the king standing by a pillar according to custom; and the captains and the trumpeters were by the king

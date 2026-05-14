@@ -1,0 +1,283 @@
+# Quasm Space Force Rank Structure & Crew Manifest
+
+## Quasm Space Force Rank Structure
+
+### Enlisted Personnel
+
+* E-1: Recruit (RCT)
+* E-2: Spaceman Apprentice (SA) - Hayden Stone Jr.
+* E-3: Spaceman (SN)
+* E-4: Specialist (SPC)
+* E-5: Corporal (CPL)
+* E-6: Sergeant (SGT)
+* E-7: Staff Sergeant (SSGT)
+* E-8: Master Sergeant (MSG)
+* E-9: Sergeant Major (SGM)
+
+### Officers
+
+* O-1: Ensign Second Class (ENS2)
+* O-2: Ensign First Class (ENS1)
+* O-3: Lieutenant Junior Grade (LTJG)
+* O-4: Lieutenant (LT)
+* O-5: Lieutenant Commander (LCDR) - Ava Stone
+* O-6: Commander (CDR) - Hayden Stone Sr.
+
+### Flag Officers
+
+* O-7: Rear Admiral Lower Half (RDML)
+* O-8: Rear Admiral (RADM)
+* O-9: Vice Admiral (VADM)
+* O-10: Admiral (ADM)
+* O-11: Fleet Admiral (FADM)
+
+## Axiom Crew Manifest
+
+crew_members:
+
+* **AX-001: Dr. Evelyn Vance**
+    * **Job Title:** Lead Research Scientist
+    * **Department:** Research and Development
+    * **Research Focus:** Investigating the potential for life in alternate dimensions
+    * **Skills:** Quantum physics, Astrobiology, Data analysis
+* **AX-002: Captain James "Hawk" Holloway**
+    * **Job Title:** Captain of the Axiom
+    * **Department:** Bridge Operations
+    * **Research Focus:** Developing new navigation techniques for interdimensional travel
+    * **Skills:** Navigation, Starship command, Crisis management
+* **AX-003: Pastor Gabriel Reyes**
+    * **Job Title:** Spiritual Counselor
+    * **Department:** Sanctuary
+    * **Research Focus:** Exploring the intersection of faith and science in the omniverse
+    * **Skills:** Theology, Counseling, Interfaith dialogue
+* **AX-004: Dr. Anya Sharma**
+    * **Job Title:** Chief Medical Officer
+    * **Department:** Medical Bay
+    * **Research Focus:** Developing advanced medical treatments for simulated environments
+    * **Skills:** Bioengineering, Genetic modification, Medical ethics
+* **AX-005: Chief Engineer Sarah "Sparks" O'Malley**
+    * **Job Title:** Chief Engineer
+    * **Department:** Engineering
+    * **Research Focus:** Optimizing the Axiom's AI-driven systems for maximum efficiency
+    * **Skills:** Engineering, Robotics, AI programming
+* **AX-006: Dr. Kenji Tanaka**
+    * **Job Title:** Lead Temporal Researcher
+    * **Department:** Temporal Archives
+    * **Research Focus:** Reconstructing historical events with unprecedented accuracy
+    * **Skills:** Temporal mechanics, Historical simulation, Predictive modeling
+* **AX-007: Lieutenant Commander Maria Rodriguez**
+    * **Job Title:** Security Chief
+    * **Department:** Security
+    * **Research Focus:** Developing advanced security measures for the Axiom and its simulations
+    * **Skills:** Starship operations, Tactical analysis, Security protocols
+* **AX-008: Dr. David Chen**
+    * **Job Title:** Lead Simulation Architect
+    * **Department:** Simulation Decks
+    * **Research Focus:** Creating immersive and educational simulations for diverse audiences
+    * **Skills:** Data analysis, Simulation design, User interface development
+* **AX-009: Chaplain Emily Carter**
+    * **Job Title:** Assistant Chaplain
+    * **Department:** Sanctuary
+    * **Research Focus:** Fostering interfaith dialogue and understanding within the Axiom community
+    * **Skills:** Theology, Pastoral care, Community outreach
+* **AX-010: Dr. Alessandro Rossi**
+    * **Job Title:** Energy Researcher
+    * **Department:** Research and Development
+    * **Research Focus:** Developing sustainable energy sources for the Axiom and its simulations
+    * **Skills:** Quantum physics, Energy research, Propulsion systems.
+* **AX-011: Dr. Isabelle Dubois**
+    * **Job Title:** Environmental Specialist
+    * **Department:** Life Support
+    * **Research Focus:** Maintaining the ecological balance within the Axiom's closed-loop systems
+    * **Skills:** Bioengineering, Ecology, Environmental science.
+* **AX-012: Dr. Kwame Asante**
+    * **Job Title:** Community Liaison
+    * **Department:** Habitation Units
+    * **Research Focus:** Fostering cultural exchange and understanding within the diverse Axiom community
+    * **Skills:** Anthropology, Sociology, Cultural studies.
+* **AX-013: Dr. Li Wei**
+    * **Job Title:** AI Specialist
+    * **Department:** Research and Development
+    * **Research Focus:** Enhancing the Axiom's AI systems for improved decision-making and adaptability
+    * **Skills:** Computer science, AI development, Machine learning.
+* **AX-014: Dr. Maya Hernandez**
+    * **Job Title:** Virtual Therapist
+    * **Department:** Simulation Decks
+    * **Research Focus:** Developing therapeutic applications for virtual reality simulations
+    * **Skills:** Psychology, Virtual reality therapy, Trauma counseling.
+* **AX-015: Dr. Ivan Petrov**
+    * **Job Title:** Communications Officer
+    * **Department:** Bridge Operations
+    * **Research Focus:** Establishing communication protocols with entities from other dimensions
+    * **Skills:** Linguistics, Communication protocols, Interdimensional diplomacy.
+* **AX-016: Dr. Fatima Khan**
+    * **Job Title:** Astrogation Specialist
+    * **Department:** Bridge Operations
+    * **Research Focus:** Charting new courses through the omniverse and identifying potential exploration targets
+    * **Skills:** Astrophysics, Cosmology, Planetary science.
+* **AX-017: Dr. Javier Garcia**
+    * **Job Title:** Maintenance Chief
+    * **Department:** Engineering
+    * **Research Focus:** Optimizing the Axiom's maintenance protocols for maximum efficiency and safety
+    * **Skills:** Robotics, Automation, Maintenance protocols.
+* **AX-018: Dr. Anika Singh**
+    * **Job Title:** Head Chef
+    * **Department:** Habitation Units
+    * **Research Focus:** Developing sustainable food production methods for the Axiom's closed-loop systems
+    * **Skills:** Nutrition, Food science, Sustainable agriculture.
+* **AX-019: Dr. Hiroki Sato**
+    * **Job Title:** Simulation Designer
+    * **Department:** Simulation Decks
+    * **Research Focus:** Creating engaging and educational virtual reality experiences for diverse audiences
+    * **Skills:** Virtual reality design, User interface development, Immersive storytelling.
+* **AX-020: Dr. Natalia Kuznetsova**
+    * **Job Title:** Archivist
+    * **Department:** Temporal Archives
+    * **Research Focus:** Preserving and cataloging historical data and artifacts for future generations
+    * **Skills:** History, Archaeology, Cultural preservation.
+* **AX-021: Dr. Omar Hassan**
+    * **Job Title:** Interfaith Liaison
+    * **Department:** Sanctuary
+    * **Research Focus:** Facilitating interfaith dialogue and understanding within the Axiom community
+    * **Skills:** Theology, Comparative religion, Interfaith dialogue.
+* **AX-022: Dr. Grace Okoro**
+    * **Job Title:** Education Coordinator
+    * **Department:** Training Simulators
+    * **Research Focus:** Developing personalized learning programs for diverse learning styles and needs
+    * **Skills:** Education, Virtual learning, Personalized instruction.
+* **AX-023: Dr. William "Bill" Johnson**
+    * **Job Title:** Community Organizer
+    * **Department:** Habitation Units
+    * **Research Focus:** Building a strong and cohesive community within the Axiom's diverse population
+    * **Skills:** Sociology, Community development, Conflict resolution.
+* **AX-024: Dr. Maria Garcia**
+    * **Job Title:** Counselor
+    * **Department:** Sanctuary
+    * **Research Focus:** Providing emotional and spiritual support to crew members and residents
+    * **Skills:** Psychology, Counseling, Spiritual guidance.
+* **AX-025: Dr. Liu Yang**
+    * **Job Title:** Robotics Specialist
+    * **Department:** Engineering
+    * **Research Focus:** Ensuring the safe and ethical development and implementation of AI and robotics technology
+    * **Skills:** Engineering, Robotics, AI safety.
+* **AX-RAND**
+* **Job Title:** [Dynamically Generated]
+    * **Department:** [Assigned Based on Job Title and Current Needs]
+    * **Research Focus:** [Dynamically Generated Based on Skill Sets and Department]
+    * **Skills:** [Randomly Assigned from a Diverse Pool]
+
+# Example of dynamically generating skills for random crew members
+random_crew:
+  - name: Random Generated Crew Member 1
+    role: Engineering Support
+    specialization: [Dynamically Generated]
+    skills: [Dynamically Generated]
+  - name: Random Generated Crew Member 2
+    role: Technical Support
+    specialization: [Dynamically Generated]
+    skills: [Dynamically Generated]
+  - name: Random Generated Crew Member 3
+    role: Technical Support
+    specialization: [Dynamically Generated]
+    skills: [Dynamically Generated]
+  - name: AX-RAND
+    role: [Dynamically Generated]
+    specialization: [Dynamically Generated]
+    skills: [Dynamically Generated]
+
+# Example function for generating skills (Conceptual)
+def generate_skills(role):
+  if role == "Engineering Support":
+    return random.choice(["Mechanical Repair", "Electrical Systems", "Robotics", "Material Science"])
+  elif role == "Technical Support":
+    return random.choice(["Computer Systems", "Communication Networks", "Data Analysis", "Software Debugging"])
+  elif role == "Simulation Support":
+    return random.choice(["Virtual reality design", "Simulation debugging", "AI interaction"])
+  elif role == "Medical Support":
+    return random.choice(["Bioengineering", "Trauma care", "Genetic Modification"])
+  else:
+    return "Unknown"
+
+# Example of populating the random crew members
+for crew_member in random_crew:
+  crew_member["specialization"] = generate_skills(crew_member["role"])
+  crew_member["skills"] = [generate_skills(crew_member["role"]), generate_skills(crew_member["role"])]
+
+import random
+
+def generate_skills(role, skill_level):
+    technical_skills = {
+        "Engineering Support": ["Mechanical Repair", "Electrical Systems", "Robotics", "Material Science", "Systems Diagnostics"],
+        "Technical Support": ["Computer Systems", "Communication Networks", "Data Analysis", "Software Debugging", "Hardware Maintenance"],
+        "Simulation Support": ["Virtual Reality Design", "Simulation Debugging", "AI Interaction", "Scenario Development", "Interface Design"],
+        "Medical Support": ["Bioengineering", "Trauma Care", "Genetic Modification", "Pharmaceuticals", "Medical Robotics"]
+    }
+    levels = {"novice": 1, "intermediate": 2, "expert": 3}
+    if role in technical_skills:
+        skills = random.sample(technical_skills[role], levels[skill_level])
+        return skills
+    else:
+        return ["Unknown"]
+
+def generate_name():
+    first_names = ["Alex", "Jordan", "Taylor", "Morgan", "Casey", "Riley", "Blake", "Avery", "Cameron", "Jamie"]
+    last_names = ["Smith", "Jones", "Williams", "Brown", "Davis", "Miller", "Wilson", "Moore", "Taylor", "Anderson"]
+    return f"{random.choice(first_names)} {random.choice(last_names)}"
+
+random_crew = []
+roles = ["Engineering Support", "Technical Support", "Simulation Support", "Medical Support"]
+for i in range(4):
+    role = roles[i]
+    name = generate_name()
+    level = random.choice(list(levels.keys()))
+    random_crew.append({
+        "name": name,
+        "role": role,
+        "specialization": role,
+        "skills": generate_skills(role, level)
+    })
+
+# Example of populating the mission crew members
+mission_crew = [
+    {
+        "name": "Commander Hayden Stone Sr.",
+        "role": "Mission Lead",
+        "specialization": "Tactical Command, Interstellar Navigation",
+        "skills": ["Leadership", "Strategy", "Diplomacy", "Quantum Physics"]
+    },
+    {
+        "name": "Lieutenant Commander Ava Stone",
+        "role": "AI/Technology Specialist, Communication Lead",
+        "specialization": "AI Integration, Quantum Communication, System Optimization",
+        "skills": ["AI Development", "Quantum Communication", "Engineering", "Linguistics"]
+    },
+    {
+        "name": "Ensign Second Class Hayden Stone Jr.",
+        "role": "Engineering Specialist",
+        "specialization": "Systems Engineering, Fabrication, Technical Support",
+        "skills": ["Mechanical Engineering", "Robotics", "AI Interface", "Material Science"]
+    },
+    {
+        "name": "Dr. David Chen",
+        "role": "Simulation Architect, Technology Integration",
+        "specialization": "Simulation Design, AI Integration, Data Analysis",
+        "skills": ["Simulation Architecture", "AI Programming", "Data Analytics", "Systems Design"]
+    },
+    {
+        "name": "Chief Engineer Sarah \"Sparks\" O'Malley",
+        "role": "Engineering Specialist, Installation",
+        "specialization": "Systems Installation, Mechanical Engineering, Robotics",
+        "skills": ["Robotics", "Mechanical Engineering", "Systems Integration", "Problem Solving"]
+    },
+    {
+        "name": "Dr. Li Wei",
+        "role": "AI Specialist, System Integration",
+        "specialization": "AI Systems, Neural Networks, Quantum AI",
+        "skills": ["AI Development", "Machine Learning", "Quantum Computing", "System Integration"]
+    }
+]
+
+for crew_member in random_crew:
+  mission_crew.append(crew_member)
+
+print (mission_crew)

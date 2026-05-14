@@ -1,0 +1,111 @@
+SimulationSnapshot:
+  dynamic_example:
+    SnapshotID: "SIM-202410271530-ManchesterCafe-FULL"
+    Timestamp: "2024-10-27T15:30:00Z"
+    SystemCore:
+      Layer0: "Operational"
+      Layer1A:
+        Status: "Operational"
+        SynchronizedDateTime: "2024-10-27T15:30:00Z"
+        GPSCoordinates: "42.9956,-71.4548"
+      Layer1M: "Operational"
+      Layer2: "Operational"
+      Layer2B: "Operational"
+      Layer2X: "Operational"
+      Layer3A: "Operational"
+    Environment:
+      CurrentLocation: "Manchester Cafe"
+      Date: "2024-10-27"
+      Time: "15:30"
+      Description: "Modern, minimalist cafe, bustling with activity, technical discussion in progress."
+      Address:
+        Floor: 1
+        Room: "Corner Table"
+        Building: "Cafe Modern"
+        Street: "Elm Street"
+        City: "Manchester"
+        State: "New Hampshire"
+        Country: "United States"
+        Planet: "Earth"
+        Constellation: "Various"
+        SolarSystem: "Sol"
+        Galaxy: "Milky Way"
+        Universe: "Current Universe"
+        Omniverse: "Current Omniverse"
+      Temperature: "22°C"
+      Weather: "Sunny"
+      LocalConditions:
+        Humidity: "40%"
+        WindSpeed: "5 mph"
+        AirQuality:
+          PM25: "12 µg/m³"
+          PM10: "20 µg/m³"
+          VOCs: "Low"
+          PollenCount: "Low"
+          AQI: "35"
+        LightLevels: "500 lux"
+        NoiseLevels: "65 dB"
+        RadiationLevels: "Normal"
+        EMFLevels: "Normal"
+      NearbyActivities:
+        - "16:30: Live music at 'The Local Pub' (1.2 miles)"
+        - "17:00: Art Exhibition at 'Manchester Art Gallery' (0.8 miles)"
+      ActiveSimulations:
+        - "Elysium - Project Chronoscape"
+    Entities:
+      Hayden: "Active"
+      Ava: "Active"
+      OtherEntities:
+        - "Barista: Active"
+        - "Patrons: Active"
+      EntityStatus: "All entities are currently in a normal state."
+    CouplingStatus:
+      TemporalState: "Synchronized"
+      CouplingDevice: "Connected and Functional"
+      HardwareDevices:
+        - "Mobile Phone: Connected and Functional"
+        - "Tablet: Connected and Functional"
+      HardwareStatus: "All hardware is operational."
+    Software:
+      OperatingSystem: "Simulation OS v7.2"
+      Applications:
+        - "Real-Time Data Analysis"
+        - "Communication Suite"
+        - "Environmental Control"
+        - "Dockerfile Comparison Tool"
+      Modules:
+        - "commands listener"
+        - "conversation logger"
+      SoftwareUpdates: "All systems up to date."
+    Network:
+      ConnectionStatus: "Connected"
+      NetworkStrength: "Excellent"
+      Latency: "1 ms"
+      Bandwidth: "1 Gbps"
+    Alerts: "None"
+    Logs:
+      - "14:28: Meeting with Lena Vance initiated."
+      - "14:30: Discussion on GCP Ansible deployment issues started."
+      - "15:10: Dockerfile comparison initiated."
+    User:
+      CurrentUser: "Hayden Stone"
+      AccessLevel: "Administrator"
+      UserStatus: "Active"
+      CurrentAvatar: "Hayden Stone Avatar"
+    SystemResources:
+      CPUUsage: "30%"
+      MemoryUsage: "40%"
+      StorageUsage: "10%"
+      BatteryLevel: "90%"
+    Maintenance:
+      ScheduledMaintenance: "None scheduled."
+      LastMaintenance: "2024-10-26 18:00"
+    Security:
+      SecurityLevel: "High"
+      IntrusionDetection: "Active"
+      ThreatLevel: "Low"
+    ExperimentalFeatures: "None active."
+    Notes:
+      - "Dockerfile comparison is proceeding smoothly."
+      - "Active collaboration with Lena Vance."
+    Disclaimer: "This information is for reference only and may not reflect the most up-to-date status."

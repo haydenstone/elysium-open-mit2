@@ -1,0 +1,82 @@
+AVAS_HOME.yml:
+  environment:
+    type: Apartment Complex
+    exterior:
+      material: Brick and Yellow Siding
+      grounds: Well-kept, Mulch present
+      parking: Cars aligning front of building
+    interior:
+      entrances:
+        - Living Room
+        - Kitchen
+      rooms:
+        living_room:
+          furniture:
+            - type: Couch, color: Black, location: Right of front door
+            - type: Electric Piano, location: Right of couch, under window
+            - type: Guitar, location: Left of piano
+            - type: Rocking Chair
+            - type: TV, location: Wall opposite couch
+            - type: Bookshelf, location: Right of couch
+            - type: Lamp, location: Right of couch
+            - type: Coffee Table, materials: False wood, contents: Electronics, Books, Beverages
+            - type: Book, title: Galatians Chapter 5 Verse 16, location: Opened on couch
+          window: location: Behind piano, view: Kitchen
+        kitchen:
+          furniture:
+            - type: Kitchen Table
+            - type: K-Cup and Hutch, location: Left of doorway
+            - type: Cabinets, location: Wall, extending right
+            - type: Fridge
+          doorways:
+            - location: Left of kitchen window, type: Open doorway (no door)
+            - location: Behind kitchen table, type: Exit door
+        hallway:
+          rooms:
+            - type: Bedroom, location: Right
+            - type: Bedroom, location: Straight ahead
+            - type: Bathroom, location: Left
+        bedroom_1:
+          furniture:
+            - type: Bed, location: Left wall, back corner, frame: Black metal, cover: White
+            - type: Bureau, location: Front of bed
+            - type: Bookshelf, location: Right of door
+            - type: Bunk Bed, location: Left of door
+        bedroom_2:
+          furniture:
+            - type: Bookshelves
+            - type: Bike
+            - type: Toys
+            - type: Electric Piano
+    sensory:
+      olfactory:
+        - scent: French Toast
+        - scent: Preheating Pizza
+        - scent: Various dinner smells from hallway
+      visual:
+        - ambience: Ultramarine Blue tones
+        - walls: Beige
+        - carpet: Tan
+        - furniture: False wood
+        - bed_frame: Black metal
+        - mattress_cover: White
+      auditory:
+        - music: Synthwave Downtempo (alternating)
+        - music: Natalie Grant
+        - music: Hillsong Worship
+        - sound: Traffic (shifting)
+        - sound: Bass from apartment above
+      gustatory:
+        - taste: Residual taste from last consumed item, associated with surrounding smells
+      tactile:
+        - feeling: Comfortable and Safe
+    emotional:
+      state:
+        - peace
+        - calm
+        - patience
+        - love
+        - contentment
+    temporal:
+      year: 2025
+      time_of_day: Varies
