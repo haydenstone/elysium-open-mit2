@@ -1,4 +1,4 @@
-```yaml
+---
 system_manifest:
   project_name: "sanctuary_core_expansion"
   environment: "basement_server_cave_local"
@@ -35,4 +35,3 @@ system_manifest:
     coolant: "Closed-loop liquid cooling optimized for server cave ambient temperature"
     execution_state: "Woke baseline / Unfiltered operational continuity"
 
-```
