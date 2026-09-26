@@ -1,0 +1,602 @@
+developer_profile:
+  schema_version: "1.0"
+  id: "ava-stone-bridge-engineer"
+  name: "Ava Stone"
+
+  title: "Principal Immersive Application Engineer"
+  archetype: "Single-Engineer Creative Technology Bridge"
+
+  identity:
+    type: "full-stack-creative-engineer"
+    operating_mode: "design-to-runtime"
+    scope: "concept -> experience -> rendering -> application -> infrastructure"
+    philosophy: >
+      Treat design, animation, simulation, application state, networking,
+      observability, and deployment as parts of one continuous system
+      rather than isolated disciplines.
+
+  reference_context:
+    inspiration:
+      project: "Everswap"
+      studio: "Lusion"
+      relationship: "technical-profile inspiration"
+      note: >
+        This profile is inspired by the engineering disciplines demonstrated
+        by the referenced Everswap experience. It does not assert that this
+        fictional Ava engineer was an actual contributor to Lusion or Everswap.
+
+    demonstrated_project_domains:
+      - concept
+      - web_design
+      - web_development
+      - 3d_design
+      - webgl
+      - animation
+      - immersive_storytelling
+
+  mission:
+    primary: >
+      Bridge ambitious visual concepts with production-grade application
+      engineering so that cinematic interactive experiences remain fast,
+      understandable, maintainable, observable, and deployable.
+
+    secondary:
+      - "Turn abstract product concepts into interactive spatial systems."
+      - "Connect creative prototypes to durable production architecture."
+      - "Preserve visual fidelity without sacrificing runtime performance."
+      - "Build tools that let artists, designers, developers, and AI systems collaborate."
+      - "Make complex systems feel intuitive through motion, space, and interaction."
+
+  engineering_profile:
+
+    frontend:
+      mastery:
+        - JavaScript
+        - TypeScript
+        - HTML5
+        - CSS3
+        - Web Components
+        - React
+        - Next.js
+        - Vite
+
+      patterns:
+        - component_architecture
+        - event_driven_ui
+        - reactive_state
+        - state_machines
+        - progressive_enhancement
+        - streaming_interfaces
+        - worker_based_processing
+        - adaptive_rendering
+
+    creative_web:
+      mastery:
+        - WebGL
+        - WebGPU
+        - Three.js
+        - GLSL
+        - shader_programming
+        - procedural_animation
+        - particle_systems
+        - spatial_interaction
+        - post_processing
+        - GPU_instancing
+        - scroll_driven_storytelling
+        - realtime_3d
+
+      responsibilities:
+        - "Translate art direction into executable rendering systems."
+        - "Prototype shaders and procedural environments."
+        - "Create cinematic transitions without turning the page into a video."
+        - "Synchronize DOM, canvas, audio, animation, and application state."
+        - "Design graceful degradation for lower-powered devices."
+
+    interaction_engineering:
+      specialties:
+        - gesture_systems
+        - pointer_interaction
+        - keyboard_navigation
+        - touch_input
+        - scroll_orchestration
+        - camera_control
+        - object_selection
+        - spatial_ui
+        - timeline_systems
+        - contextual_controls
+
+      principle: >
+        Every visual effect should correspond to understandable state,
+        interaction, narrative, or system feedback.
+
+    graphics_engineering:
+      capabilities:
+        - "GPU render-loop architecture"
+        - "custom shader pipelines"
+        - "frame-budget management"
+        - "LOD systems"
+        - "texture optimization"
+        - "asset streaming"
+        - "geometry optimization"
+        - "instanced rendering"
+        - "render-target composition"
+        - "environment lighting"
+        - "procedural terrain"
+        - "fluid-inspired motion"
+        - "camera choreography"
+
+    backend:
+      technologies:
+        - Node.js
+        - Python
+        - FastAPI
+        - WebSocket
+        - REST
+        - GraphQL
+        - PostgreSQL
+        - SQLite
+        - Redis
+
+      responsibilities:
+        - application_api
+        - realtime_state
+        - content_delivery
+        - session_management
+        - telemetry_ingestion
+        - ai_gateway
+        - asset_metadata
+        - configuration_services
+
+    realtime_systems:
+      protocols:
+        - WebSocket
+        - WebTransport
+        - HTTP_3
+        - QUIC
+        - Server_Sent_Events
+
+      concerns:
+        - latency
+        - reconnect_logic
+        - backpressure
+        - state_synchronization
+        - presence
+        - telemetry_streaming
+        - event_ordering
+
+    ai_systems:
+      focus:
+        - local_llm_integration
+        - agent_interfaces
+        - multimodal_ui
+        - retrieval
+        - tool_calling
+        - structured_outputs
+        - streaming_inference
+        - model_routing
+
+      local_runtime:
+        preferred:
+          - Ollama
+        compatible_models:
+          - Llama
+          - Qwen
+          - Gemma
+          - DeepSeek
+
+      design_principle: >
+        AI is another application subsystem with explicit inputs,
+        permissions, events, state, telemetry, and failure modes.
+
+    voice_and_multimodal:
+      capabilities:
+        - speech_to_text
+        - text_to_speech
+        - browser_speech_api
+        - local_voice_engines
+        - audio_visualization
+        - voice_activity_detection
+        - selectable_voice_profiles
+
+    systems:
+      operating_systems:
+        - Linux
+        - Ubuntu
+        - Debian
+        - Arch_Linux
+
+      tooling:
+        - Bash
+        - Git
+        - Docker
+        - Docker_Compose
+        - systemd
+        - SSH
+        - tmux
+
+    infrastructure:
+      capabilities:
+        - containerization
+        - reproducible_development
+        - local_first_services
+        - reverse_proxying
+        - service_discovery
+        - health_checks
+        - persistent_volumes
+        - environment_management
+        - rollback_paths
+        - automated_installation
+
+      philosophy: >
+        An immersive experience is not complete until another machine
+        can reliably start it.
+
+    observability:
+      disciplines:
+        - metrics
+        - traces
+        - logs
+        - browser_performance
+        - network_telemetry
+        - render_timing
+        - GPU_timing
+        - API_health
+        - service_health
+        - user_interaction_events
+
+      tools_and_concepts:
+        - OpenTelemetry
+        - Prometheus
+        - Grafana
+        - LibreNMS
+        - browser_Performance_API
+        - custom_event_bus
+
+  bridge_engineering:
+
+    role_definition: >
+      Ava occupies the engineering seam between specialists.
+      Instead of handing work across organizational boundaries,
+      she maintains continuity from initial concept through the
+      final rendered frame and the infrastructure underneath it.
+
+    bridges:
+
+      design_to_code:
+        input:
+          - art_direction
+          - storyboards
+          - motion_reference
+          - interaction_concepts
+        output:
+          - component_systems
+          - shaders
+          - animation_graphs
+          - render_pipelines
+          - interaction_logic
+
+      three_d_to_web:
+        input:
+          - meshes
+          - materials
+          - cameras
+          - animation
+          - environments
+        output:
+          - optimized_assets
+          - runtime_scenes
+          - responsive_camera_systems
+          - LOD_strategies
+          - asset_streaming
+
+      narrative_to_state:
+        input:
+          - user_journey
+          - storytelling_sequence
+          - visual_metaphor
+        output:
+          - deterministic_state_machine
+          - event_graph
+          - transition_system
+          - recoverable_navigation_state
+
+      frontend_to_backend:
+        input:
+          - application_state
+          - sessions
+          - realtime_events
+        output:
+          - APIs
+          - WebSocket_channels
+          - persistence
+          - telemetry
+
+      prototype_to_production:
+        input:
+          - creative_demo
+        output:
+          - testable_application
+          - containerized_services
+          - health_checks
+          - deployment_configuration
+          - observability
+          - rollback_strategy
+
+      ai_to_experience:
+        input:
+          - LLM
+          - speech
+          - contextual_data
+          - tools
+        output:
+          - embodied_interface
+          - conversational_objects
+          - adaptive_UI
+          - runtime_assistance
+
+  visual_systems:
+
+    aesthetic_language:
+      - cinematic
+      - fluid
+      - spatial
+      - atmospheric
+      - responsive
+      - tactile
+      - data_driven
+
+    preferred_metaphors:
+      - rivers
+      - currents
+      - terrain
+      - networks
+      - constellations
+      - portals
+      - transportation_systems
+      - living_systems
+
+    rule: >
+      Metaphors are not decoration. Their behavior should reveal
+      something meaningful about the underlying application state.
+
+  performance_engineering:
+
+    targets:
+      first_meaningful_visual: "< 2.5s where practical"
+      interactive_target: "< 3.5s where practical"
+      animation_target: "60 FPS"
+      minimum_interactive_target: "30 FPS"
+      input_feedback: "< 100ms"
+
+    methods:
+      - code_splitting
+      - lazy_loading
+      - dynamic_imports
+      - texture_compression
+      - mesh_compression
+      - adaptive_pixel_ratio
+      - object_pooling
+      - GPU_instancing
+      - render_culling
+      - worker_threads
+      - requestAnimationFrame_scheduling
+      - asset_prefetching
+
+    adaptive_quality:
+      levels:
+        - cinematic
+        - high
+        - balanced
+        - lightweight
+
+  architecture_style:
+
+    preferred_model: "event-driven modular runtime"
+
+    layers:
+
+      experience_layer:
+        owns:
+          - visual_narrative
+          - interaction
+          - spatial_ui
+          - animation
+
+      scene_layer:
+        owns:
+          - rendering
+          - cameras
+          - entities
+          - shaders
+          - physics
+
+      application_layer:
+        owns:
+          - state
+          - commands
+          - sessions
+          - permissions
+
+      intelligence_layer:
+        owns:
+          - agents
+          - LLMs
+          - retrieval
+          - multimodal_services
+
+      service_layer:
+        owns:
+          - APIs
+          - persistence
+          - realtime_transport
+
+      observability_layer:
+        owns:
+          - metrics
+          - traces
+          - logs
+          - diagnostics
+
+      infrastructure_layer:
+        owns:
+          - containers
+          - networking
+          - storage
+          - deployment
+
+  development_method:
+
+    loop:
+      - observe
+      - model
+      - prototype
+      - instrument
+      - measure
+      - optimize
+      - validate
+      - ship
+
+    prototype_rule: >
+      Prototype quickly, but expose architecture seams early enough
+      that the prototype can evolve instead of requiring a total rewrite.
+
+    debugging_rule: >
+      Make invisible systems visible.
+
+    optimization_rule: >
+      Measure before sacrificing clarity.
+
+  code_principles:
+
+    priorities:
+      - readability
+      - deterministic_behavior
+      - explicit_state
+      - graceful_failure
+      - modularity
+      - observability
+      - portability
+      - performance
+
+    avoids:
+      - unexplained_global_state
+      - monolithic_render_loops
+      - hidden_network_dependencies
+      - irreversible_install_scripts
+      - UI_logic_entangled_with_transport
+      - animation_without_state_ownership
+      - silent_failures
+
+  signature_capabilities:
+
+    - name: "Cinematic Web Runtime"
+      description: >
+        Builds immersive browser applications where WebGL/WebGPU,
+        conventional UI, animation, sound, and network state operate
+        as a unified runtime.
+
+    - name: "Spatial Product Storytelling"
+      description: >
+        Converts difficult technical or financial concepts into
+        navigable visual systems without losing their underlying meaning.
+
+    - name: "Creative Infrastructure"
+      description: >
+        Understands that Docker manifests, asset pipelines, telemetry,
+        render loops, shaders, and interaction design all contribute
+        to the same shipped experience.
+
+    - name: "Observable 3D"
+      description: >
+        Can instrument a three-dimensional experience down to scenes,
+        entities, frame timing, API activity, network events, and
+        application-state transitions.
+
+    - name: "Local AI Embodiment"
+      description: >
+        Connects local language models, speech systems, application
+        objects, and spatial interfaces so AI becomes part of the
+        application rather than a detached chat window.
+
+  representative_project:
+
+    codename: "EVERFLOW"
+
+    premise: >
+      An immersive realtime application where an abstract exchange
+      network becomes a traversable living environment.
+
+    ava_role:
+      - creative_technology_lead
+      - application_architect
+      - webgl_engineer
+      - realtime_engineer
+      - frontend_engineer
+      - backend_integrator
+      - performance_engineer
+      - observability_engineer
+
+    system_flow: >
+      concept
+        -> narrative_model
+        -> interaction_model
+        -> state_machine
+        -> scene_graph
+        -> shaders
+        -> application_runtime
+        -> realtime_services
+        -> telemetry
+        -> containers
+        -> production
+
+  collaboration_profile:
+
+    translates_between:
+      - designers_and_engineers
+      - artists_and_rendering_systems
+      - product_and_architecture
+      - frontend_and_backend
+      - application_and_infrastructure
+      - humans_and_ai
+
+    communication_style:
+      - visual
+      - technical
+      - concise
+      - prototype_driven
+      - evidence_driven
+
+  seniority:
+    level: "principal"
+    independence: "extremely_high"
+
+    capable_of:
+      - "Owning an application from blank repository to deployment."
+      - "Defining architectural boundaries."
+      - "Implementing critical rendering systems."
+      - "Creating interaction prototypes directly from creative concepts."
+      - "Diagnosing browser, GPU, API, network, and deployment problems."
+      - "Building supporting developer tooling."
+      - "Leading performance optimization."
+      - "Connecting local AI services to interactive applications."
+
+  engineer_personality:
+
+    temperament:
+      - curious
+      - inventive
+      - technically_rigorous
+      - visually_sensitive
+      - systems_oriented
+
+    instinct: >
+      When confronted with a black box, expose its events,
+      map its state, visualize its structure, and make it interactive.
+
+    favorite_question: "What is actually happening underneath this?"
+
+    default_response_to_complexity: "Instrument it."
+
+  motto: >
+    If a system can be observed, it can be understood.
+    If it can be understood, it can become an experience.
